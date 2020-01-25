@@ -4,12 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chowdown": "^1.2.5",
     "express": "^4.17.1",
-    "node-telegram-bot-api": "^0.40.0"
+    "node-telegram-bot-api": "^0.40.0",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
