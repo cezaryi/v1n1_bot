@@ -1,9 +1,9 @@
-const TelegramBot = require( `node-telegram-bot-api` )
+const http = require("http");
 
-const TOKEN = `916708017:AAGMXnn9TS61RoD2E6Zr1XUDdtW3G9Lke_M`
+const express = require("express");
 
-const bot = new TelegramBot( TOKEN, { polling: true } )
+const app = express();
 
-bot.on('new_chat_members', (msg) => {
-    bot.sendMessage(msg.chat.id, `Olá ${msg.from.first_name}, bem vindo ao Devs SC!! Conte-nos um pouco sobre você, com o que trabalha e onde, se possivel é claro`)
- }) 
+app.post(
+
+http.createServer(express).listen(3000, () => console.log("Servidor rodando local na porta 3000"));
