@@ -10,6 +10,8 @@ const session = require('telegraf/session')
 const Stage = require('telegraf/stage')
 const WizardScene = require('telegraf/scenes/wizard')
 
+let alreadySendedFirst = false
+
 const confirmacao = Extra.markup(Markup.inlineKeyboard([
     Markup.callbackButton('Sim', 's'),
     Markup.callbackButton('Não', 'n'),
@@ -17,15 +19,14 @@ const confirmacao = Extra.markup(Markup.inlineKeyboard([
 
 const confirmacaoHandler = new Composer()
 confirmacaoHandler.action('s', ctx => {
-    ctx.reply('Obrigado! Voce assinou nosso sistema.')
-        let contador = 1
-
-    
-    const notificar = () => {
-        telegram.sendMessage(env.userID, `Essa é uma mensagem de evento [${contador++}]`)
+    ctx.reply('Obrigado! Voce assinou nosso sistema.')        
+        const notificar = () => {
+        alreadySendedFirst = !alreadySendedFirst
+        const msg = alreadySendedFirst ? `Possível fraude em licitação de código "09.001/2019-SRP" \n Possível superfaturamento na compra de: \n 1 PROJETOR DE MULTIMIDIA \n Valor comprado: R$7200,00 \n Média de valor encontrado R$2168,79. \nfonte:'https://www.buscape.com.br/search?q=PROJETOR+DE+MULTIMIDIA+-'` : `Possível fraude em licitação de código "2019.12.19.01" \n Empresa com diversos cnaes genêricos`
+        telegram.sendMessage(env.userID, msg)
     }
 
-    const notificacao = new schedule.scheduleJob('*/5 * * * * *', notificar)  
+    const notificacao = new schedule.scheduleJob('*/7 * * * * *', notificar)  
 })
 
 confirmacaoHandler.action('n', ctx => {
