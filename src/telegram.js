@@ -15,10 +15,29 @@ const confirmacao = Extra.markup(Markup.inlineKeyboard([
     Markup.callbackButton('Não', 'n'),
 ]))
 
+const botoes = Extra.markup(Markup.inlineKeyboard([
+        Markup.callbackButton('Cancelar', `cancel`)
+    ]))
+
 const confirmacaoHandler = new Composer()
 confirmacaoHandler.action('s', ctx => {
     ctx.reply('Obrigado! Voce assinou nosso sistema.')
-    ctx.scene.leave()
+        let contador = 1
+
+    
+    const notificar = () => {
+        telegram.sendMessage(env.userID, `Essa é uma mensagem de evento [${contador++}]`, botoes)
+    }
+
+    const notificacao = new schedule.scheduleJob('*/5 * * * * *', notificar)
+
+    bot.action('cancel', ctx => {
+        notificacao.cancel()
+        ctx.scene.leave()
+        ctx.reply('Ok! Parei de pertubar...')
+        
+    })
+  
 })
 
 confirmacaoHandler.action('n', ctx => {
@@ -40,22 +59,5 @@ const bot = new Telegraf(env.token)
 const stage = new Stage([wizardAssinatura], { default: 'assinar' })
 bot.use(session())
 bot.use(stage.middleware())
-
-let contador = 1
-
-const botoes = Extra.markup(Markup.inlineKeyboard([
-    Markup.callbackButton('Cancelar', `cancel`)
-]))
-
-const notificar = () => {
-    telegram.sendMessage(env.userID, `Essa é uma mensagem de evento [${contador++}]`, botoes)
-}
-
-const notificacao = new schedule.scheduleJob('*/5 * * * * *', notificar)
-
-bot.action('cancel', ctx => {
-    notificacao.cancel()
-    ctx.reply('Ok! Parei de pertubar...')
-})
 
 bot.startPolling()
