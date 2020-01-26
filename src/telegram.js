@@ -1,31 +1,61 @@
-const TelegramBot = require( `node-telegram-bot-api` )
+const env = require('../.env')
+const schedule = require('node-schedule')
+const Telegraf = require('telegraf')
+const Telegram = require('telegraf/telegram')
+const Extra = require('telegraf/extra')
+const Markup = require('telegraf/markup')
+const telegram = new Telegram(env.token)
+const Composer = require('telegraf/composer')
+const session = require('telegraf/session')
+const Stage = require('telegraf/stage')
+const WizardScene = require('telegraf/scenes/wizard')
 
-const TOKEN = `916708017:AAGMXnn9TS61RoD2E6Zr1XUDdtW3G9Lke_M`
+const confirmacao = Extra.markup(Markup.inlineKeyboard([
+    Markup.callbackButton('Sim', 's'),
+    Markup.callbackButton('Não', 'n'),
+]))
 
-const bot = new TelegramBot( TOKEN, { polling: true } )
+const confirmacaoHandler = new Composer()
+confirmacaoHandler.action('s', ctx => {
+    ctx.reply('Obrigado! Voce assinou nosso sistema.')
+    ctx.scene.leave()
+})
 
-bot.on('message', (msg) => {
-    const chatId = msg.chat.id;
-    console.log(msg)
+confirmacaoHandler.action('n', ctx => {
+    ctx.reply('Volte sempre, se mudar de ideia digite /start para comecar tudo do zero.')
+    ctx.scene.leave()
+})
 
-    switch(msg.text.toLowerCase().trim()){
-        case '/start':
-            bot.sendMessage(chatId, 'Olá sou o bot v1n1, responsável por analisar os dados irregulares, você gostaria de receber notificações a respeito? Sim ou Não?');
-            break
-        
-        case 'sim':
-            bot.sendMessage(chatId, 'Você foi inscrito, eviaremos notificações assim que encontramos.');
-            break
+confirmacaoHandler.use(ctx => ctx.reply('Apenas confirme', confirmacao))
 
-        case 'nao':
-        case 'não':
-            bot.sendMessage(chatId, 'Obrigado por me visitar, volte sempre! :D');
-            break
+const wizardAssinatura = new WizardScene('assinar',
+    ctx => {
+        ctx.reply('Voce deseja receber notificacoes de licitacoes possivelmente irregulares?')
+        ctx.wizard.next()
+    },
+    confirmacaoHandler
+)
 
-        default:
-            bot.sendMessage(chatId, 'Você poderia escrever "/start" para que eu possa começar os trabalhos?');
-            break
-        }
-    
-  });
+const bot = new Telegraf(env.token)
+const stage = new Stage([wizardAssinatura], { default: 'assinar' })
+bot.use(session())
+bot.use(stage.middleware())
 
+let contador = 1
+
+const botoes = Extra.markup(Markup.inlineKeyboard([
+    Markup.callbackButton('Cancelar', `cancel`)
+]))
+
+const notificar = () => {
+    telegram.sendMessage(env.userID, `Essa é uma mensagem de evento [${contador++}]`, botoes)
+}
+
+const notificacao = new schedule.scheduleJob('*/5 * * * * *', notificar)
+
+bot.action('cancel', ctx => {
+    notificacao.cancel()
+    ctx.reply('Ok! Parei de pertubar...')
+})
+
+bot.startPolling()
