@@ -2,9 +2,10 @@ import pandas as pd
 import requests
 import os
 
-
+#Função para categorizar as licitações de acordo com o respectiva categoria, no caso TI
 def categorizar_TI():
-    df = pd.read_csv("C:/Users/Chicao/Documents/licitações/test.csv", sep=';', encoding='latin-1')
+
+    df = pd.read_csv("C:/Users/Chicao/Documents/licitações/licitacao.csv", sep=';', encoding='latin-1')
     print(df.Objeto)
     ver = df.Objeto.str.contains('sistemas informatizados|software|informatica|computadores|computador|locação de sistema|suporte tecnico|impressora'
                                  , case=False, regex=True, na=False)
@@ -23,6 +24,7 @@ def categorizar_TI():
     final = (df[ver_TI_suporte])
     final.to_csv('./licitacao_TI_suporte.csv', sep=';', index=False, encoding='latin-1')
 
+# Filtra as Cnaes de TI
 def filtroCnae():
     df = pd.read_csv("./cnaes.csv", sep=';', encoding='latin-1')
     print(df.Descrição)
@@ -32,6 +34,7 @@ def filtroCnae():
     final = (df[ver])
     final.to_csv('./cnaes_TI.csv', sep=';', index=False, encoding='latin-1')
 
+#Filtra as licitações de acordo com as cnaes de TI
 def filtraLicitacao():
     chave = []
     chave.append('fabricação|equipamento|equipamentos|informática')
@@ -67,15 +70,15 @@ def filtraLicitacao():
     df.to_json('./licitações_cnaes.json', force_ascii=False)
     df.to_csv('./licitacao_cnaes.csv', sep=';', index=False, encoding='latin-1')
 
-
+#Compara as cnaes das empresas com as cnaes das licitações
 def comparaCnae():
-    df = pd.read_csv("./arquivoluis.csv", sep=';', encoding='latin-1')
-    cnaes = pd.read_csv("./licitacao_cnaes.csv", sep=';', encoding='latin-1')
+    #df = pd.read_csv("./licitacao_TI.csv", sep=',', encoding='latin-1') #Ler CNPJ
+    df = pd.read_csv("./licitacao_cnaes.csv", sep=';', encoding='latin-1') #Licitações com Cnaes
     codigo = []
     i = 0
     j = 0
-    for i in df.CPF/CNPJ:
-        r = requests.get('https://receitaws.com.br/v1/cnpj/' + str(i)).json()
+    for h in df.Documento:
+        r = requests.get('https://receitaws.com.br/v1/cnpj/' + str(h).replace('.','').replace('/','').replace('-','')).json()
         for each in r['atividade_principal']:
             codigo.append(each['code'])
             i = i + 1
@@ -85,29 +88,26 @@ def comparaCnae():
         j = i
         i = 0
         codigos = ''
+        print(codigo)
         for x in codigo:
             codigos = codigos + x + '|'
-        #codigos = codigos[:-1] #lista de cnaes do cnpj
         tamanhocodigo = len(codigo)
-        linha = df.loc[df['CPF/CNPJ'] == str(i)]
-        todoscnaes = linha.Cnaes
-        linhacnaes = todoscnaes.split(' ') # lista de cnaes da licitação
+        linha = df['Cnaes'].tolist()
+        print(linha)
         for each in linhacnaes:
-            if each in codigo:
+            if each in codigos:
                 list.remove(each)
-        if len(codigo) == tamanhocodigo:
-            #Cnae Incompatível
+        print(codigos)
+        #if len(codigo) == tamanhocodigo:
+            # Cnae Incompatível
 
-        else if len(codigo)> 3:
-            #Cnaes Genéricos
-        else:
+        #else if len(codigo)> 3:
+            # Cnaes Genéricos
+        #else:
             #tá ok
 
-
-
-
-
-filtraLicitacao()
-
+#categorizar_TI()
+#filtraLicitacao()
 comparaCnae()
+#comparaCnae()
 
