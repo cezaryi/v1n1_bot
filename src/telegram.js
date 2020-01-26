@@ -22,10 +22,10 @@ confirmacaoHandler.action('s', ctx => {
 
     
     const notificar = () => {
-        telegram.sendMessage(env.userID, `Essa é uma mensagem de evento [${contador++}]`, botoes)
+        telegram.sendMessage(env.userID, `Essa é uma mensagem de evento [${contador++}]`)
     }
 
-    const notificacao = new schedule.scheduleJob('*/5 * * * * *', notificar)
+    const notificacao = new schedule.scheduleJob('*/5 * * * * *', notificar)  
 })
 
 confirmacaoHandler.action('n', ctx => {
