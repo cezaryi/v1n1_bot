@@ -44,15 +44,15 @@ def filtraLicitacao():
     chave.append('suporte técnico|manutenção de computadores|manutenção de sistemas|serviços de informática')
     chave.append('treinamento em informática|treinamento de programadores|treinamento de software')
     cnae = []
-    cnae.append('2621-3/00 ')
-    cnae.append('2622-1/00 ')
-    cnae.append('01/06/4651 ')
-    cnae.append('02/02/4751 ')
-    cnae.append('6201-5/00 ')
-    cnae.append('6202-3/00 6203-1/00 ')
-    cnae.append('6204-0/00 ')
-    cnae.append('6209-1/00 ')
-    cnae.append('03/06/8599 ')
+    cnae.append('26.21-3-00 ')
+    cnae.append('26.22-1-00 ')
+    cnae.append('46.51-6-01 ')
+    cnae.append('47.51-2-01 ')
+    cnae.append('62.01-5-00 ')
+    cnae.append('2.03-1-00 ')
+    cnae.append('2.04-0-00 ')
+    cnae.append('62.09-1-00 ')
+    cnae.append('85.99-6-03 ')
 
     df = pd.read_csv("./licitacao_TI.csv", sep=';', encoding='latin-1')
     df['Cnaes'] = [''] * len(df.Objeto)
@@ -84,13 +84,28 @@ def comparaCnae():
             i = i + 1
         j = i
         i = 0
-        for x in cnaes.Cnaes:
-                for b in codigos:
-                    if  b in x:
-                        caso ok
-                        break
-            else:
-            discrepância
+        codigos = ''
+        for x in codigo:
+            codigos = codigos + x + '|'
+        #codigos = codigos[:-1] #lista de cnaes do cnpj
+        tamanhocodigo = len(codigo)
+        linha = df.loc[df['CPF/CNPJ'] == str(i)]
+        todoscnaes = linha.Cnaes
+        linhacnaes = todoscnaes.split(' ') # lista de cnaes da licitação
+        for each in linhacnaes:
+            if each in codigo:
+                list.remove(each)
+        if len(codigo) == tamanhocodigo:
+            #Cnae Incompatível
+
+        else if len(codigo)> 3:
+            #Cnaes Genéricos
+        else:
+            #tá ok
+
+
+
+
 
 filtraLicitacao()
 
