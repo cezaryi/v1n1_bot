@@ -4,12 +4,12 @@ Projeto criado duranto o Hackathon TCE com o intuito de encontrar indícios de f
 O projeto apresenta um bot capaz de encontrar discrepâncias de preços entre itens de licitações e o comércio varejista, além de denúnciar 
 o cadastro indevido de CNAE's por empresas.
 
-#Pré-requisitos
+# Pré-requisitos
 ```
 ```
-#Exemplos
+# Exemplos
 
-#Autores
+# Autores
 * **Andersson Cláudio Alves Santana**
 * **Cezário Luiz**
 * **Francisco Mateus**
