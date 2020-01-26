@@ -1,0 +1,1224 @@
+Anexo;Código;Fator R;Alíquota;Atendido;Descrição
+I;0111-3/01;Não;4.0;Não;Cultivo de arroz
+I;0111-3/02;Não;4.0;Não;Cultivo de milho
+I;0111-3/03;Não;4.0;Não;Cultivo de trigo
+I;0111-3/99;Não;4.0;Não;Cultivo de outros cereais não especificados anteriormente
+I;0112-1/01;Não;4.0;Não;Cultivo de algodão herbáceo
+I;0112-1/02;Não;4.0;Não;Cultivo de juta
+I;0112-1/99;Não;4.0;Não;Cultivo de outras fibras de lavoura temporária não especificadas anteriormente
+I;0113-0/00;Não;4.0;Não;Cultivo de cana-de-açúcar
+I;0114-8/00;Não;4.0;Não;Cultivo de fumo
+I;0115-6/00;Não;4.0;Não;Cultivo de soja
+I;0116-4/01;Não;4.0;Não;Cultivo de amendoim
+I;0116-4/02;Não;4.0;Não;Cultivo de girassol
+I;0116-4/03;Não;4.0;Não;Cultivo de mamona
+I;0116-4/99;Não;4.0;Não;Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente
+I;0119-9/01;Não;4.0;Não;Cultivo de abacaxi
+I;0119-9/02;Não;4.0;Não;Cultivo de alho
+I;0119-9/03;Não;4.0;Não;Cultivo de batata-inglesa
+I;0119-9/04;Não;4.0;Não;Cultivo de cebola
+I;0119-9/05;Não;4.0;Não;Cultivo de feijão
+I;0119-9/06;Não;4.0;Não;Cultivo de mandioca
+I;0119-9/07;Não;4.0;Não;Cultivo de melão
+I;0119-9/08;Não;4.0;Não;Cultivo de melancia
+I;0119-9/09;Não;4.0;Não;Cultivo de tomate rasteiro
+I;0119-9/99;Não;4.0;Não;Cultivo de outras plantas de lavoura temporária não especificadas anteriormente
+I;0121-1/01;Não;4.0;Não;Horticultura, exceto morango
+I;0121-1/02;Não;4.0;Não;Cultivo de morango
+I;0122-9/00;Não;4.0;Não;Cultivo de flores e plantas ornamentais
+I;0131-8/00;Não;4.0;Não;Cultivo de laranja
+I;0132-6/00;Não;4.0;Não;Cultivo de uva
+I;0133-4/01;Não;4.0;Não;Cultivo de açaí
+I;0133-4/02;Não;4.0;Não;Cultivo de banana
+I;0133-4/03;Não;4.0;Não;Cultivo de caju
+I;0133-4/04;Não;4.0;Não;Cultivo de cítricos, exceto laranja
+I;0133-4/05;Não;4.0;Não;Cultivo de coco-da-baía
+I;0133-4/06;Não;4.0;Não;Cultivo de guaraná
+I;0133-4/07;Não;4.0;Não;Cultivo de maçã
+I;0133-4/08;Não;4.0;Não;Cultivo de mamão
+I;0133-4/09;Não;4.0;Não;Cultivo de maracujá
+I;0133-4/10;Não;4.0;Não;Cultivo de manga
+I;0133-4/11;Não;4.0;Não;Cultivo de pêssego
+I;0133-4/99;Não;4.0;Não;Cultivo de frutas de lavoura permanente não especificadas anteriormente
+I;0134-2/00;Não;4.0;Não;Cultivo de café
+I;0135-1/00;Não;4.0;Não;Cultivo de cacau
+I;0139-3/01;Não;4.0;Não;Cultivo de chá-da-índia
+I;0139-3/02;Não;4.0;Não;Cultivo de erva-mate
+I;0139-3/03;Não;4.0;Não;Cultivo de pimenta-do-reino
+I;0139-3/04;Não;4.0;Não;Cultivo de plantas para condimento, exceto pimenta-do-reino
+I;0139-3/05;Não;4.0;Não;Cultivo de dendê
+I;0139-3/06;Não;4.0;Não;Cultivo de seringueira
+I;0139-3/99;Não;4.0;Não;Cultivo de outras plantas de lavoura permanente não especificadas anteriormente
+I;0141-5/01;Não;4.0;Não;Produção de sementes certificadas, exceto de forrageiras para pasto
+I;0141-5/02;Não;4.0;Não;Produção de sementes certificadas de forrageiras para formação de pasto
+I;0142-3/00;Não;4.0;Não;Produção de mudas e outras formas de propagação vegetal, certificadas
+I;0151-2/01;Não;4.0;Não;Criação de bovinos para corte
+I;0151-2/02;Não;4.0;Não;Criação de bovinos para leite
+I;0151-2/03;Não;4.0;Não;Criação de bovinos, exceto para corte e leite
+I;0152-1/01;Não;4.0;Não;Criação de bufalinos
+I;0152-1/02;Não;4.0;Não;Criação de eqüinos
+I;0152-1/03;Não;4.0;Não;Criação de asininos e muares
+I;0153-9/01;Não;4.0;Não;Criação de caprinos
+I;0153-9/02;Não;4.0;Não;Criação de ovinos, inclusive para produção de lã
+I;0154-7/00;Não;4.0;Não;Criação de suínos
+I;0155-5/01;Não;4.0;Não;Criação de frangos para corte
+I;0155-5/02;Não;4.0;Não;Produção de pintos de um dia
+I;0155-5/03;Não;4.0;Não;Criação de outros galináceos, exceto para corte
+I;0155-5/04;Não;4.0;Não;Criação de aves, exceto galináceos
+I;0155-5/05;Não;4.0;Não;Produção de ovos
+I;0159-8/01;Não;4.0;Não;Apicultura
+I;0159-8/02;Não;4.0;Não;Criação de animais de estimação
+I;0159-8/03;Não;4.0;Não;Criação de escargô
+I;0159-8/04;Não;4.0;Não;Criação de bicho-da-seda
+I;0159-8/99;Não;4.0;Não;Criação de outros animais não especificados anteriormente
+III;0161-0/01;Não;6.0;Não;Serviço de pulverização e controle de pragas agrícolas
+III;0161-0/02;Não;6.0;Não;Serviço de poda de árvores para lavouras
+III;0161-0/03;Não;6.0;Não;Serviço de preparação de terreno, cultivo e colheita
+III;0161-0/99;Não;6.0;Não;Atividades de apoio à agricultura não especificadas anteriormente
+III;0162-8/02;Não;6.0;Não;Serviço de tosquiamento de ovinos
+III;0162-8/03;Não;6.0;Não;Serviço de manejo de animais
+III;0162-8/99;Não;6.0;Não;Atividades de apoio à pecuária não especificadas anteriormente
+III;0163-6/00;Não;6.0;Não;Atividades de pós-colheita
+I;0170-9/00;Não;4.0;Não;Caça e serviços relacionados
+I;0210-1/01;Não;4.0;Não;Cultivo de eucalipto
+I;0210-1/02;Não;4.0;Não;Cultivo de acácia-negra
+I;0210-1/03;Não;4.0;Não;Cultivo de pinus
+I;0210-1/04;Não;4.0;Não;Cultivo de teca
+I;0210-1/05;Não;4.0;Não;Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca
+I;0210-1/06;Não;4.0;Não;Cultivo de mudas em viveiros florestais
+I;0210-1/07;Não;4.0;Não;Extração de madeira em florestas plantadas
+I;0210-1/08;Não;4.0;Não;Produção de carvão vegetal – florestas plantadas
+I;0210-1/09;Não;4.0;Não;Produção de casca de acácia-negra – florestas plantadas
+I;0210-1/99;Não;4.0;Não;Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas
+I;0220-9/01;Não;4.0;Não;Extração de madeira em florestas nativas
+I;0220-9/02;Não;4.0;Não;Produção de carvão vegetal – florestas nativas
+I;0220-9/03;Não;4.0;Não;Coleta de castanha-do-pará em florestas nativas
+I;0220-9/04;Não;4.0;Não;Coleta de látex em florestas nativas
+I;0220-9/05;Não;4.0;Não;Coleta de palmito em florestas nativas
+I;0220-9/06;Não;4.0;Não;Conservação de florestas nativas
+I;0220-9/99;Não;4.0;Não;Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas
+III;0230-6/00;Não;6.0;Não;Atividades de apoio à produção florestal
+I;0311-6/01;Não;4.0;Não;Pesca de peixes em água salgada
+I;0311-6/02;Não;4.0;Não;Pesca de crustáceos e moluscos em água salgada
+I;0311-6/03;Não;4.0;Não;Coleta de outros produtos marinhos
+III;0311-6/04;Não;6.0;Não;Atividades de apoio à pesca em água salgada
+I;0312-4/01;Não;4.0;Não;Pesca de peixes em água doce
+I;0312-4/02;Não;4.0;Não;Pesca de crustáceos e moluscos em água doce
+I;0312-4/03;Não;4.0;Não;Coleta de outros produtos aquáticos de água doce
+III;0312-4/04;Não;6.0;Não;Atividades de apoio à pesca em água doce
+I;0321-3/01;Não;4.0;Não;Criação de peixes em água salgada e salobra
+I;0321-3/02;Não;4.0;Não;Criação de camarões em água salgada e salobra
+I;0321-3/03;Não;4.0;Não;Criação de ostras e mexilhões em água salgada e salobra
+I;0321-3/04;Não;4.0;Não;Criação de peixes ornamentais em água salgada e salobra
+III;0321-3/05;Não;6.0;Não;Atividades de apoio à aqüicultura em água salgada e salobra
+I;0321-3/99;Não;4.0;Não;Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente
+I;0322-1/01;Não;4.0;Não;Criação de peixes em água doce
+I;0322-1/02;Não;4.0;Não;Criação de camarões em água doce
+I;0322-1/03;Não;4.0;Não;Criação de ostras e mexilhões em água doce
+I;0322-1/04;Não;4.0;Não;Criação de peixes ornamentais em água doce
+I;0322-1/05;Não;4.0;Não;Ranicultura
+I;0322-1/06;Não;4.0;Não;Criação de jacaré
+III;0322-1/07;Não;6.0;Não;Atividades de apoio à aqüicultura em água doce
+I;0322-1/99;Não;4.0;Não;Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente
+I;0500-3/01;Não;4.0;Não;Extração de carvão mineral
+I;0500-3/02;Não;4.0;Não;Beneficiamento de carvão mineral
+I;0600-0/01;Não;4.0;Não;Extração de petróleo e gás natural
+I;0600-0/02;Não;4.0;Não;Extração e beneficiamento de xisto
+I;0600-0/03;Não;4.0;Não;Extração e beneficiamento de areias betuminosas
+I;0710-3/01;Não;4.0;Não;Extração de minério de ferro
+II;0710-3/02;Não;4.5;Não;Pelotização, sinterização e outros beneficiamentos de minério de ferro
+I;0721-9/01;Não;4.0;Não;Extração de minério de alumínio
+II;0721-9/02;Não;4.5;Não;Beneficiamento de minério de alumínio
+I;0722-7/01;Não;4.0;Não;Extração de minério de estanho
+II;0722-7/02;Não;4.5;Não;Beneficiamento de minério de estanho
+I;0723-5/01;Não;4.0;Não;Extração de minério de manganês
+II;0723-5/02;Não;4.5;Não;Beneficiamento de minério de manganês
+I;0724-3/01;Não;4.0;Não;Extração de minério de metais preciosos
+II;0724-3/02;Não;4.5;Não;Beneficiamento de minério de metais preciosos
+I;0725-1/00;Não;4.0;Não;Extração de minerais radioativos
+I;0729-4/01;Não;4.0;Não;Extração de minérios de nióbio e titânio
+I;0729-4/02;Não;4.0;Não;Extração de minério de tungstênio
+I;0729-4/03;Não;4.0;Não;Extração de minério de níquel
+I;0729-4/04;Não;4.0;Não;Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente
+II;0729-4/05;Não;4.5;Não;Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente
+I;0810-0/01;Não;4.0;Não;Extração de ardósia e beneficiamento associado
+I;0810-0/02;Não;4.0;Não;Extração de granito e beneficiamento associado
+I;0810-0/03;Não;4.0;Não;Extração de mármore e beneficiamento associado
+I;0810-0/04;Não;4.0;Não;Extração de calcário e dolomita e beneficiamento associado
+I;0810-0/05;Não;4.0;Não;Extração de gesso e caulim
+I;0810-0/06;Não;4.0;Não;Extração de areia, cascalho ou pedregulho e beneficiamento associado
+I;0810-0/07;Não;4.0;Não;Extração de argila e beneficiamento associado
+I;0810-0/08;Não;4.0;Não;Extração de saibro e beneficiamento associado
+I;0810-0/09;Não;4.0;Não;Extração de basalto e beneficiamento associado
+II;0810-0/10;Não;4.5;Não;Beneficiamento de gesso e caulim associado à extração
+I;0810-0/99;Não;4.0;Não;Extração e britamento de pedras e outros materiais para construção e beneficiamento associado
+I;0891-6/00;Não;4.0;Não;Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos
+I;0892-4/01;Não;4.0;Não;Extração de sal marinho
+I;0892-4/02;Não;4.0;Não;Extração de sal-gema
+II;0892-4/03;Não;4.5;Não;Refino e outros tratamentos do sal
+I;0893-2/00;Não;4.0;Não;Extração de gemas (pedras preciosas e semipreciosas)
+I;0899-1/01;Não;4.0;Não;Extração de grafita
+I;0899-1/02;Não;4.0;Não;Extração de quartzo
+I;0899-1/03;Não;4.0;Não;Extração de amianto
+I;0899-1/99;Não;4.0;Não;Extração de outros minerais não-metálicos não especificados anteriormente
+III;0990-4/01;Não;6.0;Não;Atividades de apoio à extração de minério de ferro
+III;0990-4/02;Não;6.0;Não;Atividades de apoio à extração de minerais metálicos não-ferrosos
+III;0990-4/03;Não;6.0;Não;Atividades de apoio à extração de minerais não-metálicos
+II;1011-2/01;Não;4.5;Não;Frigorífico – abate de bovinos
+II;1011-2/02;Não;4.5;Não;Frigorífico – abate de eqüinos
+II;1011-2/03;Não;4.5;Não;Frigorífico – abate de ovinos e caprinos
+II;1011-2/04;Não;4.5;Não;Frigorífico – abate de bufalinos
+II;1011-2/05;Não;4.5;Não;Matadouro – abate de reses sob contrato, exceto abate de suínos
+II;1012-1/01;Não;4.5;Não;Abate de aves
+II;1012-1/02;Não;4.5;Não;Abate de pequenos animais
+II;1012-1/03;Não;4.5;Não;Frigorífico – abate de suínos
+II;1012-1/04;Não;4.5;Não;Matadouro – abate de suínos sob contrato
+II;1013-9/01;Não;4.5;Não;Fabricação de produtos de carne
+II;1013-9/02;Não;4.5;Não;Preparação de subprodutos do abate
+II;1020-1/01;Não;4.5;Não;Preservação de peixes, crustáceos e moluscos
+II;1020-1/02;Não;4.5;Não;Fabricação de conservas de peixes, crustáceos e moluscos
+II;1031-7/00;Não;4.5;Não;Fabricação de conservas de frutas
+II;1032-5/01;Não;4.5;Não;Fabricação de conservas de palmito
+II;1032-5/99;Não;4.5;Não;Fabricação de conservas de legumes e outros vegetais, exceto palmito
+II;1033-3/01;Não;4.5;Não;Fabricação de sucos concentrados de frutas, hortaliças e legumes
+II;1033-3/02;Não;4.5;Não;Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados
+II;1041-4/00;Não;4.5;Não;Fabricação de óleos vegetais em bruto, exceto óleo de milho
+II;1042-2/00;Não;4.5;Não;Fabricação de óleos vegetais refinados, exceto óleo de milho
+II;1043-1/00;Não;4.5;Não;Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais
+II;1051-1/00;Não;4.5;Não;Preparação do leite
+II;1052-0/00;Não;4.5;Não;Fabricação de laticínios
+II;1053-8/00;Não;4.5;Não;Fabricação de sorvetes e outros gelados comestíveis
+II;1061-9/01;Não;4.5;Não;Beneficiamento de arroz
+II;1061-9/02;Não;4.5;Não;Fabricação de produtos do arroz
+II;1062-7/00;Não;4.5;Não;Moagem de trigo e fabricação de derivados
+II;1063-5/00;Não;4.5;Não;Fabricação de farinha de mandioca e derivados
+II;1064-3/00;Não;4.5;Não;Fabricação de farinha de milho e derivados, exceto óleos de milho
+II;1065-1/01;Não;4.5;Não;Fabricação de amidos e féculas de vegetais
+II;1065-1/02;Não;4.5;Não;Fabricação de óleo de milho em bruto
+II;1065-1/03;Não;4.5;Não;Fabricação de óleo de milho refinado
+II;1066-0/00;Não;4.5;Não;Fabricação de alimentos para animais
+II;1069-4/00;Não;4.5;Não;Moagem e fabricação de produtos de origem vegetal não especificados anteriormente
+II;1071-6/00;Não;4.5;Não;Fabricação de açúcar em bruto
+II;1072-4/01;Não;4.5;Não;Fabricação de açúcar de cana refinado
+II;1072-4/02;Não;4.5;Não;Fabricação de açúcar de cereais (dextrose) e de beterraba
+II;1081-3/01;Não;4.5;Não;Beneficiamento de café
+II;1081-3/02;Não;4.5;Não;Torrefação e moagem de café
+II;1082-1/00;Não;4.5;Não;Fabricação de produtos à base de café
+II;1091-1/00;Não;4.5;Não;Fabricação de produtos de panificação
+II;1091-1/01;Não;4.5;Não;Fabricação de produtos de panificação industrial
+I;1091-1/02;Não;4.0;Não;Fabricação de produtos de padaria e confeitaria com predominância de produção própria
+II;1092-9/00;Não;4.5;Não;Fabricação de biscoitos e bolachas
+II;1093-7/01;Não;4.5;Não;Fabricação de produtos derivados do cacau e de chocolates
+II;1093-7/02;Não;4.5;Não;Fabricação de frutas cristalizadas, balas e semelhantes
+II;1094-5/00;Não;4.5;Não;Fabricação de massas alimentícias
+II;1095-3/00;Não;4.5;Não;Fabricação de especiarias, molhos, temperos e condimentos
+II;1096-1/00;Não;4.5;Não;Fabricação de alimentos e pratos prontos
+II;1099-6/01;Não;4.5;Não;Fabricação de vinagres
+II;1099-6/02;Não;4.5;Não;Fabricação de pós alimentícios
+II;1099-6/03;Não;4.5;Não;Fabricação de fermentos e leveduras
+II;1099-6/04;Não;4.5;Não;Fabricação de gelo comum
+II;1099-6/05;Não;4.5;Não;Fabricação de produtos para infusão (chá, mate, etc.)
+II;1099-6/06;Não;4.5;Não;Fabricação de adoçantes naturais e artificiais
+II;1099-6/07;Não;4.5;Não;Fabricação de alimentos dietéticos e complementos alimentares
+II;1099-6/99;Não;4.5;Não;Fabricação de outros produtos alimentícios não especificados anteriormente
+II;1121-6/00;Não;4.5;Não;Fabricação de águas envasadas
+II;1122-4/02;Não;4.5;Não;Fabricação de chá mate e outros chás prontos para consumo
+II;1122-4/04;Não;4.5;Não;Fabricação de bebidas isotônicas
+II;1210-7/00;Não;4.5;Não;Processamento industrial do fumo
+II;1311-1/00;Não;4.5;Não;Preparação e fiação de fibras de algodão
+II;1312-0/00;Não;4.5;Não;Preparação e fiação de fibras têxteis naturais, exceto algodão
+II;1313-8/00;Não;4.5;Não;Fiação de fibras artificiais e sintéticas
+II;1314-6/00;Não;4.5;Não;Fabricação de linhas para costurar e bordar
+II;1321-9/00;Não;4.5;Não;Tecelagem de fios de algodão
+II;1322-7/00;Não;4.5;Não;Tecelagem de fios de fibras têxteis naturais, exceto algodão
+II;1323-5/00;Não;4.5;Não;Tecelagem de fios de fibras artificiais e sintéticas
+II;1330-8/00;Não;4.5;Não;Fabricação de tecidos de malha
+II;1340-5/01;Não;4.5;Não;Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário
+II;1340-5/02;Não;4.5;Não;Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário
+II;1340-5/99;Não;4.5;Não;Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário
+II;1351-1/00;Não;4.5;Não;Fabricação de artefatos têxteis para uso doméstico
+II;1352-9/00;Não;4.5;Não;Fabricação de artefatos de tapeçaria
+II;1353-7/00;Não;4.5;Não;Fabricação de artefatos de cordoaria
+II;1354-5/00;Não;4.5;Não;Fabricação de tecidos especiais, inclusive artefatos
+II;1359-6/00;Não;4.5;Não;Fabricação de outros produtos têxteis não especificados anteriormente
+II;1411-8/01;Não;4.5;Não;Confecção de roupas íntimas
+II;1411-8/02;Não;4.5;Não;Facção de roupas íntimas
+II;1412-6/01;Não;4.5;Não;Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida
+II;1412-6/02;Não;4.5;Não;Confecção, sob medida, de peças do vestuário, exceto roupas íntimas
+II;1412-6/03;Não;4.5;Não;Facção de peças do vestuário, exceto roupas íntimas
+II;1413-4/01;Não;4.5;Não;Confecção de roupas profissionais, exceto sob medida
+II;1413-4/02;Não;4.5;Não;Confecção, sob medida, de roupas profissionais
+II;1413-4/03;Não;4.5;Não;Facção de roupas profissionais
+II;1414-2/00;Não;4.5;Não;Fabricação de acessórios do vestuário, exceto para segurança e proteção
+II;1421-5/00;Não;4.5;Não;Fabricação de meias
+II;1422-3/00;Não;4.5;Não;Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias
+II;1510-6/00;Não;4.5;Não;Curtimento e outras preparações de couro
+II;1521-1/00;Não;4.5;Não;Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material
+II;1529-7/00;Não;4.5;Não;Fabricação de artefatos de couro não especificados anteriormente
+II;1531-9/01;Não;4.5;Não;Fabricação de calçados de couro
+III;1531-9/02;Não;6.0;Não;Acabamento de calçados de couro sob contrato
+II;1532-7/00;Não;4.5;Não;Fabricação de tênis de qualquer material
+II;1533-5/00;Não;4.5;Não;Fabricação de calçados de material sintético
+II;1539-4/00;Não;4.5;Não;Fabricação de calçados de materiais não especificados anteriormente
+II;1540-8/00;Não;4.5;Não;Fabricação de partes para calçados, de qualquer material
+II;1610-2/01;Não;4.5;Não;Serrarias com desdobramento de madeira
+II;1621-8/00;Não;4.5;Não;Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada
+II;1622-6/01;Não;4.5;Não;Fabricação de casas de madeira pré-fabricadas
+II;1622-6/02;Não;4.5;Não;Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais
+II;1622-6/99;Não;4.5;Não;Fabricação de outros artigos de carpintaria para construção
+II;1623-4/00;Não;4.5;Não;Fabricação de artefatos de tanoaria e de embalagens de madeira
+II;1629-3/01;Não;4.5;Não;Fabricação de artefatos diversos de madeira, exceto móveis
+II;1629-3/02;Não;4.5;Não;Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis
+II;1710-9/00;Não;4.5;Não;Fabricação de celulose e outras pastas para a fabricação de papel
+II;1721-4/00;Não;4.5;Não;Fabricação de papel
+II;1722-2/00;Não;4.5;Não;Fabricação de cartolina e papel-cartão
+II;1731-1/00;Não;4.5;Não;Fabricação de embalagens de papel
+II;1732-0/00;Não;4.5;Não;Fabricação de embalagens de cartolina e papel-cartão
+II;1733-8/00;Não;4.5;Não;Fabricação de chapas e de embalagens de papelão ondulado
+II;1741-9/01;Não;4.5;Não;Fabricação de formulários contínuos
+II;1741-9/02;Não;4.5;Não;Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório
+II;1742-7/01;Não;4.5;Não;Fabricação de fraldas descartáveis
+II;1742-7/02;Não;4.5;Não;Fabricação de absorventes higiênicos
+II;1742-7/99;Não;4.5;Não;Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente
+II;1749-4/00;Não;4.5;Não;Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente
+II;1811-3/01;Não;4.5;Não;Impressão de jornais
+II;1811-3/02;Não;4.5;Não;Impressão de livros, revistas e outras publicações periódicas
+II;1812-1/00;Não;4.5;Não;Impressão de material de segurança
+III;1813-0/01;Não;6.0;Não;Impressão de material para uso publicitário
+III;1813-0/99;Não;6.0;Não;Impressão de material para outros usos
+III;1821-1/00;Não;6.0;Não;Serviços de pré-impressão
+III;1822-9/00;Não;6.0;Não;Serviços de acabamentos gráficos
+III;1822-9/01;Não;6.0;Não;Serviços de encadernação e plastificação
+III;1822-9/99;Não;6.0;Não;Serviços de acabamentos gráficos, exceto encadernação e plastificação
+III;1830-0/01;Não;6.0;Não;Reprodução de som em qualquer suporte
+III;1830-0/02;Não;6.0;Não;Reprodução de vídeo em qualquer suporte
+V;1830-0/03;Não;15.5;Não;Reprodução de software em qualquer suporte
+II;1910-1/00;Não;4.5;Não;Coquerias
+II;1921-7/00;Não;4.5;Não;Fabricação de produtos do refino de petróleo
+II;01/05/1922;Não;4.5;Não;Formulação de combustíveis
+II;02/05/1922;Não;4.5;Não;Rerrefino de óleos lubrificantes
+II;1922-5/99;Não;4.5;Não;Fabricação de outros produtos derivados do petróleo, exceto produtos do refino
+II;1931-4/00;Não;4.5;Não;Fabricação de álcool
+II;1932-2/00;Não;4.5;Não;Fabricação de biocombustíveis, exceto álcool
+II;2011-8/00;Não;4.5;Não;Fabricação de cloro e álcalis
+II;2012-6/00;Não;4.5;Não;Fabricação de intermediários para fertilizantes
+II;2013-4/00;Não;4.5;Não;Fabricação de adubos e fertilizantes
+II;01/04/2013;Não;4.5;Não;Fabricação de adubos e fertilizantes organo-minerais
+II;02/04/2013;Não;4.5;Não;Fabricação de adubos e fertilizantes, exceto organo-minerais
+II;2014-2/00;Não;4.5;Não;Fabricação de gases industriais
+II;01/03/2019;Não;4.5;Não;Elaboração de combustíveis nucleares
+II;2019-3/99;Não;4.5;Não;Fabricação de outros produtos químicos inorgânicos não especificados anteriormente
+II;2021-5/00;Não;4.5;Não;Fabricação de produtos petroquímicos básicos
+II;2022-3/00;Não;4.5;Não;Fabricação de intermediários para plastificantes, resinas e fibras
+II;2029-1/00;Não;4.5;Não;Fabricação de produtos químicos orgânicos não especificados anteriormente
+II;2031-2/00;Não;4.5;Não;Fabricação de resinas termoplásticas
+II;2032-1/00;Não;4.5;Não;Fabricação de resinas termofixas
+II;2033-9/00;Não;4.5;Não;Fabricação de elastômeros
+II;2040-1/00;Não;4.5;Não;Fabricação de fibras artificiais e sintéticas
+II;2051-7/00;Não;4.5;Não;Fabricação de defensivos agrícolas
+II;2052-5/00;Não;4.5;Não;Fabricação de desinfestantes domissanitários
+II;2061-4/00;Não;4.5;Não;Fabricação de sabões e detergentes sintéticos
+II;2062-2/00;Não;4.5;Não;Fabricação de produtos de limpeza e polimento
+II;2063-1/00;Não;4.5;Não;Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal
+II;2071-1/00;Não;4.5;Não;Fabricação de tintas, vernizes, esmaltes e lacas
+II;2072-0/00;Não;4.5;Não;Fabricação de tintas de impressão
+II;2073-8/00;Não;4.5;Não;Fabricação de impermeabilizantes, solventes e produtos afins
+II;2091-6/00;Não;4.5;Não;Fabricação de adesivos e selantes
+II;02/04/2092;Não;4.5;Não;Fabricação de artigos pirotécnicos
+II;03/04/2092;Não;4.5;Não;Fabricação de fósforos de segurança
+II;2093-2/00;Não;4.5;Não;Fabricação de aditivos de uso industrial
+II;2094-1/00;Não;4.5;Não;Fabricação de catalisadores
+II;01/01/2099;Não;4.5;Não;Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia
+II;2099-1/99;Não;4.5;Não;Fabricação de outros produtos químicos não especificados anteriormente
+II;2110-6/00;Não;4.5;Não;Fabricação de produtos farmoquímicos
+II;01/01/2121;Não;4.5;Não;Fabricação de medicamentos alopáticos para uso humano
+II;02/01/2121;Não;4.5;Não;Fabricação de medicamentos homeopáticos para uso humano
+II;03/01/2121;Não;4.5;Não;Fabricação de medicamentos fitoterápicos para uso humano
+II;2122-0/00;Não;4.5;Não;Fabricação de medicamentos para uso veterinário
+II;2123-8/00;Não;4.5;Não;Fabricação de preparações farmacêuticas
+II;2211-1/00;Não;4.5;Não;Fabricação de pneumáticos e de câmaras-de-ar
+II;2219-6/00;Não;4.5;Não;Fabricação de artefatos de borracha não especificados anteriormente
+II;2221-8/00;Não;4.5;Não;Fabricação de laminados planos e tubulares de material plástico
+II;2222-6/00;Não;4.5;Não;Fabricação de embalagens de material plástico
+II;2223-4/00;Não;4.5;Não;Fabricação de tubos e acessórios de material plástico para uso na construção
+II;01/03/2229;Não;4.5;Não;Fabricação de artefatos de material plástico para uso pessoal e doméstico
+II;02/03/2229;Não;4.5;Não;Fabricação de artefatos de material plástico para usos industriais
+II;03/03/2229;Não;4.5;Não;Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios
+II;2229-3/99;Não;4.5;Não;Fabricação de artefatos de material plástico para outros usos não especificados anteriormente
+II;2311-7/00;Não;4.5;Não;Fabricação de vidro plano e de segurança
+II;2312-5/00;Não;4.5;Não;Fabricação de embalagens de vidro
+II;2319-2/00;Não;4.5;Não;Fabricação de artigos de vidro
+II;2320-6/00;Não;4.5;Não;Fabricação de cimento
+II;01/03/2330;Não;4.5;Não;Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda
+II;02/03/2330;Não;4.5;Não;Fabricação de artefatos de cimento para uso na construção
+II;03/03/2330;Não;4.5;Não;Fabricação de artefatos de fibrocimento para uso na construção
+II;04/03/2330;Não;4.5;Não;Fabricação de casas pré-moldadas de concreto
+II;05/03/2330;Não;4.5;Não;Preparação de massa de concreto e argamassa para construção
+II;2330-3/99;Não;4.5;Não;Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes
+II;2341-9/00;Não;4.5;Não;Fabricação de produtos cerâmicos refratários
+II;01/07/2342;Não;4.5;Não;Fabricação de azulejos e pisos
+II;02/07/2342;Não;4.5;Não;Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos
+II;01/04/2349;Não;4.5;Não;Fabricação de material sanitário de cerâmica
+II;2349-4/99;Não;4.5;Não;Fabricação de produtos cerâmicos não-refratários não especificados anteriormente
+II;01/05/2391;Não;4.5;Não;Britamento de pedras, exceto associado à extração
+II;02/05/2391;Não;4.5;Não;Aparelhamento de pedras para construção, exceto associado à extração
+II;03/05/2391;Não;4.5;Não;Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras
+II;2392-3/00;Não;4.5;Não;Fabricação de cal e gesso
+II;01/01/2399;Não;4.5;Não;Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal
+II;02/01/2399;Não;4.5;Não;Fabricação de abrasivos
+II;2399-1/99;Não;4.5;Não;Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente
+II;2411-3/00;Não;4.5;Não;Produção de ferro-gusa
+II;2412-1/00;Não;4.5;Não;Produção de ferroligas
+II;2421-1/00;Não;4.5;Não;Produção de semi-acabados de aço
+II;01/09/2422;Não;4.5;Não;Produção de laminados planos de aço ao carbono, revestidos ou não
+II;02/09/2422;Não;4.5;Não;Produção de laminados planos de aços especiais
+II;01/07/2423;Não;4.5;Não;Produção de tubos de aço sem costura
+II;02/07/2423;Não;4.5;Não;Produção de laminados longos de aço, exceto tubos
+II;01/05/2424;Não;4.5;Não;Produção de arames de aço
+II;02/05/2424;Não;4.5;Não;Produção de relaminados, trefilados e perfilados de aço, exceto arames
+II;2431-8/00;Não;4.5;Não;Produção de tubos de aço com costura
+II;2439-3/00;Não;4.5;Não;Produção de outros tubos de ferro e aço
+II;01/05/2441;Não;4.5;Não;Produção de alumínio e suas ligas em formas primárias
+II;02/05/2441;Não;4.5;Não;Produção de laminados de alumínio
+II;2442-3/00;Não;4.5;Não;Metalurgia dos metais preciosos
+II;2443-1/00;Não;4.5;Não;Metalurgia do cobre
+II;01/01/2449;Não;4.5;Não;Produção de zinco em formas primárias
+II;02/01/2449;Não;4.5;Não;Produção de laminados de zinco
+II;03/01/2449;Não;4.5;Não;Produção de ânodos para galvanoplastia
+II;2449-1/99;Não;4.5;Não;Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente
+II;2451-2/00;Não;4.5;Não;Fundição de ferro e aço
+II;2452-1/00;Não;4.5;Não;Fundição de metais não-ferrosos e suas ligas
+II;2511-0/00;Não;4.5;Não;Fabricação de estruturas metálicas
+II;2512-8/00;Não;4.5;Não;Fabricação de esquadrias de metal
+II;2513-6/00;Não;4.5;Não;Fabricação de obras de caldeiraria pesada
+II;2521-7/00;Não;4.5;Não;Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central
+II;2522-5/00;Não;4.5;Não;Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos
+II;01/04/2531;Não;4.5;Não;Produção de forjados de aço
+II;02/04/2531;Não;4.5;Não;Produção de forjados de metais não-ferrosos e suas ligas
+II;01/02/2532;Não;4.5;Não;Produção de artefatos estampados de metal
+II;02/02/2532;Não;4.5;Não;Metalurgia do pó
+III;2539-0/00;Não;6.0;Não;Serviços de usinagem, solda, tratamento e revestimento em metais (este serviço foi analisado como sendo prestado para terceiros. As empresas que realizam a produção própria para venda deverá utilizar o Sim II para tributar esta parte das receitas)
+III;2539-0/01;Não;6.0;Não;Serviços de usinagem, tornearia e solda
+III;2539-0/02;Não;6.0;Não;Serviços de tratamento e revestimento em metais
+II;2541-1/00;Não;4.5;Não;Fabricação de artigos de cutelaria
+II;2542-0/00;Não;4.5;Não;Fabricação de artigos de serralheria, exceto esquadrias
+II;2543-8/00;Não;4.5;Não;Fabricação de ferramentas
+II;2591-8/00;Não;4.5;Não;Fabricação de embalagens metálicas
+II;01/06/2592;Não;4.5;Não;Fabricação de produtos de trefilados de metal padronizados
+II;02/06/2592;Não;4.5;Não;Fabricação de produtos de trefilados de metal, exceto padronizados
+II;2593-4/00;Não;4.5;Não;Fabricação de artigos de metal para uso doméstico e pessoal
+II;01/03/2599;Não;4.5;Não;Serviços de confecção de armações metálicas para a construção
+III;02/03/2599;Não;6.0;Não;Serviço de corte e dobra de metais
+II;2599-3/99;Não;4.5;Não;Fabricação de outros produtos de metal não especificados anteriormente
+II;2610-8/00;Não;4.5;Não;Fabricação de componentes eletrônicos
+II;2621-3/00;Não;4.5;Não;Fabricação de equipamentos de informática
+II;2622-1/00;Não;4.5;Não;Fabricação de periféricos para equipamentos de informática
+II;2631-1/00;Não;4.5;Não;Fabricação de equipamentos transmissores de comunicação, peças e acessórios
+II;2632-9/00;Não;4.5;Não;Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios
+II;2640-0/00;Não;4.5;Não;Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo
+II;2651-5/00;Não;4.5;Não;Fabricação de aparelhos e equipamentos de medida, teste e controle
+II;2652-3/00;Não;4.5;Não;Fabricação de cronômetros e relógios
+II;2660-4/00;Não;4.5;Não;Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação
+II;01/01/2670;Não;4.5;Não;Fabricação de equipamentos e instrumentos ópticos, peças e acessórios
+II;02/01/2670;Não;4.5;Não;Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios
+II;2680-9/00;Não;4.5;Não;Fabricação de mídias virgens, magnéticas e ópticas
+II;01/04/2710;Não;4.5;Não;Fabricação de geradores de corrente contínua e alternada, peças e acessórios
+II;02/04/2710;Não;4.5;Não;Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios
+II;03/04/2710;Não;4.5;Não;Fabricação de motores elétricos, peças e acessórios
+II;2721-0/00;Não;4.5;Não;Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores
+II;01/08/2722;Não;4.5;Não;Fabricação de baterias e acumuladores para veículos automotores
+II;02/08/2722;Não;4.5;Não;Recondicionamento de baterias e acumuladores para veículos automotores
+II;2731-7/00;Não;4.5;Não;Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica
+II;2732-5/00;Não;4.5;Não;Fabricação de material elétrico para instalações em circuito de consumo
+II;2733-3/00;Não;4.5;Não;Fabricação de fios, cabos e condutores elétricos isolados
+II;01/06/2740;Não;4.5;Não;Fabricação de lâmpadas
+II;02/06/2740;Não;4.5;Não;Fabricação de luminárias e outros equipamentos de iluminação
+II;2751-1/00;Não;4.5;Não;Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios
+II;01/07/2759;Não;4.5;Não;Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios
+II;2759-7/99;Não;4.5;Não;Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios
+II;01/02/2790;Não;4.5;Não;Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores
+II;02/02/2790;Não;4.5;Não;Fabricação de equipamentos para sinalização e alarme
+II;2790-2/99;Não;4.5;Não;Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente
+II;2811-9/00;Não;4.5;Não;Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários
+II;2812-7/00;Não;4.5;Não;Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas
+II;2813-5/00;Não;4.5;Não;Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios
+II;01/03/2814;Não;4.5;Não;Fabricação de compressores para uso industrial, peças e acessórios
+II;02/03/2814;Não;4.5;Não;Fabricação de compressores para uso não-industrial, peças e acessórios
+II;01/01/2815;Não;4.5;Não;Fabricação de rolamentos para fins industriais
+II;02/01/2815;Não;4.5;Não;Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos
+II;01/06/2821;Não;4.5;Não;Fabricação de fornos industriais, aparelhos e equipamentos não-elétricos para instalações térmicas, peças e acessórios
+II;02/06/2821;Não;4.5;Não;Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios
+II;01/04/2822;Não;4.5;Não;Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios
+II;02/04/2822;Não;4.5;Não;Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios
+II;2823-2/00;Não;4.5;Não;Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios
+II;01/01/2824;Não;4.5;Não;Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial
+II;02/01/2824;Não;4.5;Não;Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial
+II;2825-9/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios
+II;01/01/2829;Não;4.5;Não;Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios
+II;2829-1/99;Não;4.5;Não;Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios
+II;2831-3/00;Não;4.5;Não;Fabricação de tratores agrícolas, peças e acessórios
+II;2832-1/00;Não;4.5;Não;Fabricação de equipamentos para irrigação agrícola, peças e acessórios
+II;2833-0/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação
+II;2840-2/00;Não;4.5;Não;Fabricação de máquinas-ferramenta, peças e acessórios
+II;2851-8/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios
+II;2852-6/00;Não;4.5;Não;Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo
+II;2853-4/00;Não;4.5;Não;Fabricação de tratores, peças e acessórios, exceto agrícolas
+II;2854-2/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores
+II;2861-5/00;Não;4.5;Não;Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta
+II;2862-3/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios
+II;2863-1/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios
+II;2864-0/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios
+II;2865-8/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios
+II;2866-6/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios
+II;2869-1/00;Não;4.5;Não;Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios
+II;02/07/2910;Não;4.5;Não;Fabricação de chassis com motor para automóveis, camionetas e utilitários
+II;03/07/2910;Não;4.5;Não;Fabricação de motores para automóveis, camionetas e utilitários
+II;01/04/2920;Não;4.5;Não;Fabricação de caminhões e ônibus
+II;02/04/2920;Não;4.5;Não;Fabricação de motores para caminhões e ônibus
+II;01/01/2930;Não;4.5;Não;Fabricação de cabines, carrocerias e reboques para caminhões
+II;02/01/2930;Não;4.5;Não;Fabricação de carrocerias para ônibus
+II;03/01/2930;Não;4.5;Não;Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus
+II;2941-7/00;Não;4.5;Não;Fabricação de peças e acessórios para o sistema motor de veículos automotores
+II;2942-5/00;Não;4.5;Não;Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores
+II;2943-3/00;Não;4.5;Não;Fabricação de peças e acessórios para o sistema de freios de veículos automotores
+II;2944-1/00;Não;4.5;Não;Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores
+II;2945-0/00;Não;4.5;Não;Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias
+II;01/02/2949;Não;4.5;Não;Fabricação de bancos e estofados para veículos automotores
+II;2949-2/99;Não;4.5;Não;Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente
+III;2950-6/00;Não;6.0;Não;Recondicionamento e recuperação de motores para veículos automotores
+II;01/03/3011;Não;4.5;Não;Construção de embarcações de grande porte
+II;02/03/3011;Não;4.5;Não;Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte
+II;3012-1/00;Não;4.5;Não;Construção de embarcações para esporte e lazer
+II;3031-8/00;Não;4.5;Não;Fabricação de locomotivas, vagões e outros materiais rodantes
+II;3032-6/00;Não;4.5;Não;Fabricação de peças e acessórios para veículos ferroviários
+II;3041-5/00;Não;4.5;Não;Fabricação de aeronaves
+II;3042-3/00;Não;4.5;Não;Fabricação de turbinas, motores e outros componentes e peças para aeronaves
+II;3050-4/00;Não;4.5;Não;Fabricação de veículos militares de combate
+II;02/01/3091;Não;4.5;Não;Fabricação de peças e acessórios para motocicletas
+II;3092-0/00;Não;4.5;Não;Fabricação de bicicletas e triciclos não-motorizados, peças e acessórios
+II;3099-7/00;Não;4.5;Não;Fabricação de equipamentos de transporte não especificados anteriormente
+II;3101-2/00;Não;4.5;Não;Fabricação de móveis com predominância de madeira
+II;3102-1/00;Não;4.5;Não;Fabricação de móveis com predominância de metal
+II;3103-9/00;Não;4.5;Não;Fabricação de móveis de outros materiais, exceto madeira e metal
+II;3104-7/00;Não;4.5;Não;Fabricação de colchões
+II;01/06/3211;Não;4.5;Não;Lapidação de gemas
+II;02/06/3211;Não;4.5;Não;Fabricação de artefatos de joalheria e ourivesaria
+II;03/06/3211;Não;4.5;Não;Cunhagem de moedas e medalhas
+II;3212-4/00;Não;4.5;Não;Fabricação de bijuterias e artefatos semelhantes
+II;3220-5/00;Não;4.5;Não;Fabricação de instrumentos musicais, peças e acessórios
+II;3230-2/00;Não;4.5;Não;Fabricação de artefatos para pesca e esporte
+II;3240-0/01;Não;4.5;Não;Fabricação de jogos eletrônicos
+II;3240-0/02;Não;4.5;Não;Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação
+II;3240-0/99;Não;4.5;Não;Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente
+II;01/07/3250;Não;4.5;Não;Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório
+II;02/07/3250;Não;4.5;Não;Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório
+II;03/07/3250;Não;4.5;Não;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda
+II;04/07/3250;Não;4.5;Não;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda
+II;05/07/3250;Não;4.5;Não;Fabricação de materiais para medicina e odontologia
+III;06/07/3250;Sim;6.0;Sim;Serviços de prótese dentária
+V;06/07/3250;Sim;15.5;Sim;Serviços de prótese dentária
+II;07/07/3250;Não;4.5;Não;Fabricação de artigos ópticos
+II;08/07/3250;Não;4.5;Não;Fabricação de artefatos de tecido não tecido para uso odontomédicohospitalar
+III;09/07/3250;Sim;6.0;Sim;Serviço de laboratório óptico
+V;09/07/3250;Sim;15.5;Sim;Serviço de laboratório óptico
+II;3291-4/00;Não;4.5;Não;Fabricação de escovas, pincéis e vassouras
+II;01/02/3292;Não;4.5;Não;Fabricação de roupas de proteção e segurança e resistentes a fogo
+II;02/02/3292;Não;4.5;Não;Fabricação de equipamentos e acessórios para segurança pessoal e profissional
+II;3299-0/01;Não;4.5;Não;Fabricação de guarda-chuvas e similares
+II;3299-0/02;Não;4.5;Não;Fabricação de canetas, lápis e outros artigos para escritório
+II;3299-0/03;Não;4.5;Não;Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos
+II;3299-0/04;Não;4.5;Não;Fabricação de painéis e letreiros luminosos
+II;3299-0/05;Não;4.5;Não;Fabricação de aviamentos para costura
+II;3299-0/06;Não;4.5;Não;Fabricação de velas, inclusive decorativas
+II;3299-0/99;Não;4.5;Não;Fabricação de produtos diversos não especificados anteriormente
+III;3311-2/00;Não;6.0;Não;Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos
+III;01/01/3312;Não;6.0;Não;Manutenção e reparação de equipamentos transmissores de comunicação
+III;02/01/3312;Não;6.0;Não;Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle
+III;03/01/3312;Não;6.0;Não;Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação
+III;04/01/3312;Não;6.0;Não;Manutenção e reparação de equipamentos e instrumentos ópticos
+III;01/09/3313;Não;6.0;Não;Manutenção e reparação de geradores, transformadores e motores elétricos
+III;02/09/3313;Não;6.0;Não;Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos
+III;3313-9/99;Não;6.0;Não;Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente
+III;01/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas motrizes não-elétricas
+III;02/07/3314;Não;6.0;Não;Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas
+III;03/07/3314;Não;6.0;Não;Manutenção e reparação de válvulas industriais
+III;04/07/3314;Não;6.0;Não;Manutenção e reparação de compressores
+III;05/07/3314;Não;6.0;Não;Manutenção e reparação de equipamentos de transmissão para fins industriais
+III;06/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas
+III;07/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial
+III;08/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas
+III;09/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos para escritório
+III;10/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente
+III;11/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária
+III;12/07/3314;Não;6.0;Não;Manutenção e reparação de tratores agrícolas
+III;13/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas-ferramenta
+III;14/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo
+III;15/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo
+III;16/07/3314;Não;6.0;Não;Manutenção e reparação de tratores, exceto agrícolas
+III;17/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores
+III;18/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta
+III;19/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo
+III;20/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados
+III;21/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos
+III;22/07/3314;Não;6.0;Não;Manutenção e reparação de máquinas e aparelhos para a indústria do plástico
+III;3314-7/99;Não;6.0;Não;Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente
+III;3315-5/00;Não;6.0;Não;Manutenção e reparação de veículos ferroviários
+III;01/03/3316;Não;6.0;Não;Manutenção e reparação de aeronaves, exceto a manutenção na pista
+III;02/03/3316;Não;6.0;Não;Manutenção de aeronaves na pista
+III;01/01/3317;Não;6.0;Não;Manutenção e reparação de embarcações e estruturas flutuantes
+III;02/01/3317;Não;6.0;Não;Manutenção e reparação de embarcações para esporte e lazer
+III;3319-8/00;Não;6.0;Não;Manutenção e reparação de equipamentos e produtos não especificados anteriormente
+III;3321-0/00;Não;6.0;Não;Instalação de máquinas e equipamentos industriais
+III;01/05/3329;Não;6.0;Não;Serviços de montagem de móveis de qualquer material
+III;3329-5/99;Não;6.0;Não;Instalação de outros equipamentos não especificados anteriormente
+II;01/04/3520;Não;4.5;Não;Produção de gás processamento de gás natural
+I;02/04/3520;Não;4.0;Não;Distribuição de combustíveis gasosos por redes urbanas
+II;3530-1/00;Não;4.5;Não;Produção e distribuição de vapor, água quente e ar condicionado
+I;02/06/3600;Não;4.0;Não;Distribuição de água por caminhões
+IV;3702-9/00;Não;4.5;Não;Atividades relacionadas a esgoto, exceto a gestão de redes
+III;3811-4/00;Não;6.0;Não;Coleta de resíduos não-perigosos
+III;3812-2/00;Não;6.0;Não;Coleta de resíduos perigosos
+II;01/09/3831;Não;4.5;Não;Recuperação de sucatas de alumínio
+II;3831-9/99;Não;4.5;Não;Recuperação de materiais metálicos, exceto alumínio
+II;3832-7/00;Não;4.5;Não;Recuperação de materiais plásticos
+II;01/04/3839;Não;4.5;Não;Usinas de compostagem
+II;3839-4/99;Não;4.5;Não;Recuperação de materiais não especificados anteriormente
+IV;4120-4/00;Não;4.5;Não;Construção de edifícios
+IV;01/01/4211;Não;4.5;Não;Construção de rodovias e ferrovias
+III;02/01/4211;Não;6.0;Não;Pintura para sinalização em pistas rodoviárias e aeroportos
+III;4212-0/00;Não;6.0;Não;Construção de obras-de-arte especiais
+IV;4213-8/00;Não;4.5;Não;Obras de urbanização – ruas, praças e calçadas
+IV;01/09/4221;Não;4.5;Não;Construção de barragens e represas para geração de energia elétrica
+IV;02/09/4221;Não;4.5;Não;Construção de estações e redes de distribuição de energia elétrica
+III;03/09/4221;Não;6.0;Não;Manutenção de redes de distribuição de energia elétrica
+IV;04/09/4221;Não;4.5;Não;Construção de estações e redes de telecomunicações
+III;05/09/4221;Não;6.0;Não;Manutenção de estações e redes de telecomunicações
+IV;01/07/4222;Não;4.5;Não;Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação
+IV;02/07/4222;Não;4.5;Não;Obras de irrigação
+IV;4223-5/00;Não;4.5;Não;Construção de redes de transportes por dutos, exceto para água e esgoto
+IV;4291-0/00;Não;4.5;Não;Obras portuárias, marítimas e fluviais
+IV;01/08/4292;Não;4.5;Não;Montagem de estruturas metálicas
+IV;02/08/4292;Não;4.5;Não;Obras de montagem industrial
+IV;01/05/4299;Não;4.5;Não;Construção de instalações esportivas e recreativas
+IV;4299-5/99;Não;4.5;Não;Outras obras de engenharia civil não especificadas anteriormente
+IV;01/08/4311;Não;4.5;Não;Demolição de edifícios e outras estruturas
+IV;02/08/4311;Não;4.5;Não;Preparação de canteiro e limpeza de terreno
+IV;4312-6/00;Não;4.5;Não;Perfurações e sondagens
+IV;4313-4/00;Não;4.5;Não;Obras de terraplenagem
+IV;4319-3/00;Não;4.5;Não;Serviços de preparação do terreno não especificados anteriormente
+IV;4321-5/00;Não;4.5;Não;Instalação e manutenção elétrica
+IV;01/03/4322;Não;4.5;Não;Instalações hidráulicas, sanitárias e de gás
+III;02/03/4322;Não;6.0;Não;Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração
+III;03/03/4322;Não;6.0;Não;Instalações de sistema de prevenção contra incêndio
+III;01/01/4329;Não;6.0;Não;Instalação de painéis publicitários
+III;02/01/4329;Não;6.0;Não;Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre
+III;03/01/4329;Não;6.0;Não;Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes
+III;04/01/4329;Não;6.0;Não;Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos
+III;05/01/4329;Não;6.0;Não;Tratamentos térmicos, acústicos ou de vibração
+III;4329-1/99;Não;6.0;Não;Outras obras de instalações em construções não especificadas anteriormente
+IV;01/04/4330;Não;4.5;Não;Impermeabilização em obras de engenharia civil
+IV;02/04/4330;Não;4.5;Não;Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material
+IV;03/04/4330;Não;4.5;Não;Obras de acabamento em gesso e estuque
+IV;04/04/4330;Não;4.5;Não;Serviços de pintura de edifícios em geral
+IV;05/04/4330;Não;4.5;Não;Aplicação de revestimentos e de resinas em interiores e exteriores
+IV;4330-4/99;Não;4.5;Não;Outras obras de acabamento da construção
+IV;4391-6/00;Não;4.5;Não;Obras de fundações
+III;02/01/4399;Não;6.0;Não;Montagem e desmontagem de andaimes e outras estruturas temporárias
+IV;03/01/4399;Não;4.5;Não;Obras de alvenaria
+III;04/01/4399;Não;6.0;Não;Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras
+IV;05/01/4399;Não;4.5;Não;Perfuração e construção de poços de água
+IV;4399-1/99;Não;4.5;Não;Serviços especializados para construção não especificados anteriormente
+I;01/01/4511;Não;4.0;Não;Comércio a varejo de automóveis, camionetas e utilitários novos
+I;02/01/4511;Não;4.0;Não;Comércio a varejo de automóveis, camionetas e utilitários usados
+I;03/01/4511;Não;4.0;Não;Comércio por atacado de automóveis, camionetas e utilitários novos e usados
+I;04/01/4511;Não;4.0;Não;Comércio por atacado de caminhões novos e usados
+I;05/01/4511;Não;4.0;Não;Comércio por atacado de reboques e semi-reboques novos e usados
+I;06/01/4511;Não;4.0;Não;Comércio por atacado de ônibus e microônibus novos e usados
+V;01/09/4512;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de veículos automotores
+I;02/09/4512;Não;4.0;Não;Comércio sob consignação de veículos automotores
+III;4520-0/01;Não;6.0;Não;Serviços de manutenção e reparação mecânica de veículos automotores
+III;4520-0/02;Não;6.0;Não;Serviços de lanternagem ou funilaria e pintura de veículos automotores
+III;4520-0/03;Não;6.0;Não;Serviços de manutenção e reparação elétrica de veículos automotores
+III;4520-0/04;Não;6.0;Não;Serviços de alinhamento e balanceamento de veículos automotores
+III;4520-0/05;Não;6.0;Não;Serviços de lavagem, lubrificação e polimento de veículos automotores
+III;4520-0/06;Não;6.0;Não;Serviços de borracharia para veículos automotores
+III;4520-0/07;Não;6.0;Não;Serviços de instalação, manutenção e reparação de acessórios para veículos automotores
+III;4520-0/08;Não;6.0;Não;Serviços de capotaria
+I;01/07/4530;Não;4.0;Não;Comércio por atacado de peças e acessórios novos para veículos automotores
+I;02/07/4530;Não;4.0;Sim;Comércio por atacado de pneumáticos e câmaras-de-ar
+I;03/07/4530;Não;4.0;Sim;Comércio a varejo de peças e acessórios novos para veículos automotores
+I;04/07/4530;Não;4.0;Sim;Comércio a varejo de peças e acessórios usados para veículos automotores
+I;05/07/4530;Não;4.0;Sim;Comércio a varejo de pneumáticos e câmaras-de-ar
+V;06/07/4530;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores
+I;01/02/4541;Não;4.0;Não;Comércio por atacado de motocicletas e motonetas
+I;02/02/4541;Não;4.0;Sim;Comércio por atacado de peças e acessórios para motocicletas e motonetas
+I;03/02/4541;Não;4.0;Não;Comércio a varejo de motocicletas e motonetas novas
+I;04/02/4541;Não;4.0;Não;Comércio a varejo de motocicletas e motonetas usadas
+I;05/02/4541;Não;4.0;Sim;Comércio a varejo de peças e acessórios para motocicletas e motonetas
+V;01/01/4542;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios
+I;02/01/4542;Não;4.0;Não;Comércio sob consignação de motocicletas e motonetas
+III;4543-9/00;Não;6.0;Não;Manutenção e reparação de motocicletas e motonetas
+V;4611-7/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos
+V;4612-5/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos
+V;4613-3/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens
+V;4614-1/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves
+V;4615-0/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico
+V;4616-8/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem
+V;4617-6/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo
+V;01/04/4618;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria
+V;02/04/4618;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares
+V;03/04/4618;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações
+V;4618-4/99;Sim;15.5;Sim;Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente
+V;4619-2/00;Sim;15.5;Sim;Representantes comerciais e agentes do comércio de mercadorias em geral não especializado
+I;4621-4/00;Não;4.0;Não;Comércio atacadista de café em grão
+I;4622-2/00;Não;4.0;Não;Comércio atacadista de soja
+I;01/01/4623;Não;4.0;Não;Comércio atacadista de animais vivos
+I;02/01/4623;Não;4.0;Não;Comércio atacadista de couros, lãs, peles e outros subprodutos não-comestíveis de origem animal
+I;03/01/4623;Não;4.0;Não;Comércio atacadista de algodão
+I;04/01/4623;Não;4.0;Não;Comércio atacadista de fumo em folha não beneficiado
+I;05/01/4623;Não;4.0;Não;Comércio atacadista de cacau
+I;06/01/4623;Não;4.0;Não;Comércio atacadista de sementes, flores, plantas e gramas
+I;07/01/4623;Não;4.0;Não;Comércio atacadista de sisal
+I;08/01/4623;Não;4.0;Não;Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada
+I;09/01/4623;Não;4.0;Não;Comércio atacadista de alimentos para animais
+I;4623-1/99;Não;4.0;Não;Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente
+I;4631-1/00;Não;4.0;Não;Comércio atacadista de leite e laticínios
+I;4632-0/01;Não;4.0;Não;Comércio atacadista de cereais e leguminosas beneficiados
+I;4632-0/02;Não;4.0;Não;Comércio atacadista de farinhas, amidos e féculas
+I;4632-0/03;Não;4.0;Não;Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada
+I;01/08/4633;Não;4.0;Não;Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos
+I;02/08/4633;Não;4.0;Não;Comércio atacadista de aves vivas e ovos
+I;03/08/4633;Não;4.0;Não;Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação
+I;01/06/4634;Não;4.0;Não;Comércio atacadista de carnes bovinas e suínas e derivados
+I;02/06/4634;Não;4.0;Não;Comércio atacadista de aves abatidas e derivados
+I;03/06/4634;Não;4.0;Não;Comércio atacadista de pescados e frutos do mar
+I;4634-6/99;Não;4.0;Não;Comércio atacadista de carnes e derivados de outros animais
+I;01/04/4635;Não;4.0;Sim;Comércio atacadista de água mineral
+I;02/04/4635;Não;4.0;Sim;Comércio atacadista de cerveja, chope e refrigerante
+I;03/04/4635;Não;4.0;Não;Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada
+I;01/02/4636;Não;4.0;Não;Comércio atacadista de fumo beneficiado
+I;01/01/4637;Não;4.0;Não;Comércio atacadista de café torrado, moído e solúvel
+I;02/01/4637;Não;4.0;Não;Comércio atacadista de açúcar
+I;03/01/4637;Não;4.0;Não;Comércio atacadista de óleos e gorduras
+I;04/01/4637;Não;4.0;Sim;Comércio atacadista de pães, bolos, biscoitos e similares
+I;05/01/4637;Não;4.0;Sim;Comércio atacadista de massas alimentícias
+I;06/01/4637;Não;4.0;Sim;Comércio atacadista de sorvetes
+I;07/01/4637;Não;4.0;Sim;Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes
+I;4637-1/99;Não;4.0;Sim;Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente
+I;01/07/4639;Não;4.0;Sim;Comércio atacadista de produtos alimentícios em geral
+I;02/07/4639;Não;4.0;Não;Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada
+I;01/09/4641;Não;4.0;Sim;Comércio atacadista de tecidos
+I;02/09/4641;Não;4.0;Sim;Comércio atacadista de artigos de cama, mesa e banho
+I;03/09/4641;Não;4.0;Sim;Comércio atacadista de artigos de armarinho
+I;01/07/4642;Não;4.0;Sim;Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança
+I;02/07/4642;Não;4.0;Sim;Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho
+I;01/05/4643;Não;4.0;Sim;Comércio atacadista de calçados
+I;02/05/4643;Não;4.0;Sim;Comércio atacadista de bolsas, malas e artigos de viagem
+I;01/03/4644;Não;4.0;Não;Comércio atacadista de medicamentos e drogas de uso humano
+I;02/03/4644;Não;4.0;Não;Comércio atacadista de medicamentos e drogas de uso veterinário
+I;01/01/4645;Não;4.0;Não;Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios
+I;02/01/4645;Não;4.0;Não;Comércio atacadista de próteses e artigos de ortopedia
+I;03/01/4645;Não;4.0;Não;Comércio atacadista de produtos odontológicos
+I;4646-0/01;Não;4.0;Sim;Comércio atacadista de cosméticos e produtos de perfumaria
+I;4646-0/02;Não;4.0;Sim;Comércio atacadista de produtos de higiene pessoal
+I;01/08/4647;Não;4.0;Sim;Comércio atacadista de artigos de escritório e de papelaria
+I;02/08/4647;Não;4.0;Sim;Comércio atacadista de livros, jornais e outras publicações
+I;01/04/4649;Não;4.0;Sim;Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico
+I;02/04/4649;Não;4.0;Sim;Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico
+I;03/04/4649;Não;4.0;Sim;Comércio atacadista de bicicletas, triciclos e outros veículos recreativos
+I;04/04/4649;Não;4.0;Sim;Comércio atacadista de móveis e artigos de colchoaria
+I;05/04/4649;Não;4.0;Sim;Comércio atacadista de artigos de tapeçaria persianas e cortinas
+I;06/04/4649;Não;4.0;Sim;Comércio atacadista de lustres, luminárias e abajures
+I;07/04/4649;Não;4.0;Sim;Comércio atacadista de filmes, CDs, DVDs, fitas e discos
+I;08/04/4649;Não;4.0;Sim;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar
+I;09/04/4649;Não;4.0;Sim;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada
+I;10/04/4649;Não;4.0;Sim;Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas
+I;4649-4/99;Não;4.0;Sim;Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente
+I;01/06/4651;Não;4.0;Sim;Comércio atacadista de equipamentos de informática
+I;02/06/4651;Não;4.0;Sim;Comércio atacadista de suprimentos para informática
+I;4652-4/00;Não;4.0;Sim;Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação
+I;4661-3/00;Não;4.0;Não;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças"
+I;4662-1/00;Não;4.0;Não;"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças"
+I;4663-0/00;Não;4.0;Não;Comércio atacadista de máquinas e equipamentos para uso industrial partes e peças
+I;4664-8/00;Não;4.0;Não;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças"
+I;4665-6/00;Não;4.0;Não;Comércio atacadista de máquinas e equipamentos para uso comercial partes e peças
+I;01/09/4669;Não;4.0;Não;Comércio atacadista de bombas e compressores partes e peças
+I;4669-9/99;Não;4.0;Não;Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente partes e peças
+I;4671-1/00;Não;4.0;Não;Comércio atacadista de madeira e produtos derivados
+I;4672-9/00;Não;4.0;Não;Comércio atacadista de ferragens e ferramentas
+I;4673-7/00;Não;4.0;Não;Comércio atacadista de material elétrico
+I;4674-5/00;Não;4.0;Não;Comércio atacadista de cimento
+I;01/06/4679;Não;4.0;Não;Comércio atacadista de tintas, vernizes e similares
+I;02/06/4679;Não;4.0;Não;Comércio atacadista de mármores e granitos
+I;03/06/4679;Não;4.0;Sim;Comércio atacadista de vidros, espelhos e vitrais
+I;04/06/4679;Não;4.0;Não;Comércio atacadista especializado de materiais de construção não especificados anteriormente
+I;4679-6/99;Não;4.0;Não;Comércio atacadista de materiais de construção em geral
+I;01/08/4681;Não;4.0;Não;Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)
+I;02/08/4681;Não;4.0;Não;Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)
+I;03/08/4681;Não;4.0;Não;Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante
+I;04/08/4681;Não;4.0;Não;Comércio atacadista de combustíveis de origem mineral em bruto
+I;05/08/4681;Não;4.0;Não;Comércio atacadista de lubrificantes
+I;4682-6/00;Não;4.0;Não;Comércio atacadista de gás liqüefeito de petróleo (GLP)
+I;4683-4/00;Não;4.0;Não;Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo
+I;01/02/4684;Não;4.0;Não;Comércio atacadista de resinas e elastômeros
+I;02/02/4684;Não;4.0;Não;Comércio atacadista de solventes
+I;4684-2/99;Não;4.0;Não;Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente
+I;4685-1/00;Não;4.0;Não;Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção
+I;01/09/4686;Não;4.0;Não;Comércio atacadista de papel e papelão em bruto
+I;02/09/4686;Não;4.0;Sim;Comércio atacadista de embalagens
+I;01/07/4687;Não;4.0;Não;Comércio atacadista de resíduos de papel e papelão
+I;02/07/4687;Não;4.0;Não;Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão
+I;03/07/4687;Não;4.0;Não;Comércio atacadista de resíduos e sucatas metálicos
+I;01/03/4689;Não;4.0;Não;Comércio atacadista de produtos da extração mineral, exceto combustíveis
+I;02/03/4689;Não;4.0;Não;Comércio atacadista de fios e fibras beneficiados
+I;4689-3/99;Não;4.0;Não;Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente
+I;4691-5/00;Não;4.0;Sim;Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios
+I;4692-3/00;Não;4.0;Não;Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários
+I;4693-1/00;Não;4.0;Sim;Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários
+I;01/03/4711;Não;4.0;Sim;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – hipermercados
+I;02/03/4711;Não;4.0;Sim;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – supermercados
+I;4712-1/00;Não;4.0;Sim;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – minimercados, mercearias e armazéns
+I;4713-0/01;Não;4.0;Sim;Lojas de departamentos ou magazines
+I;4713-0/02;Não;4.0;Sim;Lojas de variedades, exceto lojas de departamentos ou magazines
+I;4713-0/03;Não;4.0;Não;Lojas duty free de aeroportos internacionais
+I;01/01/4721;Não;4.0;Não;Padaria e confeitaria com predominância de produção própria
+I;02/01/4721;Não;4.0;Sim;Padaria e confeitaria com predominância de revenda
+I;03/01/4721;Não;4.0;Sim;Comércio varejista de laticínios e frios
+I;04/01/4721;Não;4.0;Sim;Comércio varejista de doces, balas, bombons e semelhantes
+I;01/09/4722;Não;4.0;Não;Comércio varejista de carnes – açougues
+I;02/09/4722;Não;4.0;Não;Peixaria
+I;4723-7/00;Não;4.0;Sim;Comércio varejista de bebidas
+I;4724-5/00;Não;4.0;Sim;Comércio varejista de hortifrutigranjeiros
+I;01/06/4729;Não;4.0;Sim;Tabacaria
+I;02/06/4729;Não;4.0;Não;Comércio varejista de mercadorias em lojas de conveniência
+I;4729-6/99;Não;4.0;Sim;Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente
+I;4731-8/00;Não;4.0;Não;Comércio varejista de combustíveis para veículos automotores
+I;4732-6/00;Não;4.0;Não;Comércio varejista de lubrificantes
+I;4741-5/00;Não;4.0;Não;Comércio varejista de tintas e materiais para pintura
+I;4742-3/00;Não;4.0;Não;Comércio varejista de material elétrico
+I;4743-1/00;Não;4.0;Sim;Comércio varejista de vidros
+I;4744-0/01;Não;4.0;Não;Comércio varejista de ferragens e ferramentas
+I;4744-0/02;Não;4.0;Sim;Comércio varejista de madeira e artefatos
+I;4744-0/03;Não;4.0;Não;Comércio varejista de materiais hidráulicos
+I;4744-0/04;Não;4.0;Não;Comércio varejista de cal, areia, pedra britada, tijolos e telhas
+I;4744-0/05;Não;4.0;Não;Comércio varejista de materiais de construção não especificados anteriormente
+I;4744-0/06;Não;4.0;Não;Comércio varejista de pedras para revestimento
+I;4744-0/99;Não;4.0;Não;Comércio varejista de materiais de construção em geral
+I;4751-2/00;Não;4.0;Não;Comércio varejista especializado de equipamentos e suprimentos de informática
+I;01/02/4751;Não;4.0;Sim;Comércio varejista especializado de equipamentos e suprimentos de informática
+III;02/02/4751;Não;6.0;Sim;Recarga de cartuchos para equipamentos de informática
+I;4752-1/00;Não;4.0;Sim;Comércio varejista especializado de equipamentos de telefonia e comunicação
+I;4753-9/00;Não;4.0;Sim;Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo
+I;01/07/4754;Não;4.0;Sim;Comércio varejista de móveis
+I;02/07/4754;Não;4.0;Sim;Comércio varejista de artigos de colchoaria
+I;03/07/4754;Não;4.0;Sim;Comércio varejista de artigos de iluminação
+I;01/05/4755;Não;4.0;Sim;Comércio varejista de tecidos
+I;02/05/4755;Não;4.0;Sim;Comércio varejista de artigos de armarinho
+I;03/05/4755;Não;4.0;Sim;Comércio varejista de artigos de cama, mesa e banho
+I;4756-3/00;Não;4.0;Sim;Comércio varejista especializado de instrumentos musicais e acessórios
+I;4757-1/00;Não;4.0;Sim;Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação
+I;01/08/4759;Não;4.0;Sim;Comércio varejista de artigos de tapeçaria, cortinas e persianas
+I;4759-8/99;Não;4.0;Sim;Comércio varejista de outros artigos de uso doméstico não especificados anteriormente
+I;4761-0/01;Não;4.0;Sim;Comércio varejista de livros
+I;4761-0/02;Não;4.0;Sim;Comércio varejista de jornais e revistas
+I;4761-0/03;Não;4.0;Sim;Comércio varejista de artigos de papelaria
+I;4762-8/00;Não;4.0;Sim;Comércio varejista de discos, CDs, DVDs e fitas
+I;01/06/4763;Não;4.0;Sim;Comércio varejista de brinquedos e artigos recreativos
+I;02/06/4763;Não;4.0;Sim;Comércio varejista de artigos esportivos
+I;03/06/4763;Não;4.0;Sim;Comércio varejista de bicicletas e triciclos peças e acessórios
+I;04/06/4763;Não;4.0;Sim;Comércio varejista de artigos de caça, pesca e camping
+I;05/06/4763;Não;4.0;Não;Comércio varejista de embarcações e outros veículos recreativos peças e acessórios
+I;01/07/4771;Não;4.0;Não;Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas
+I;02/07/4771;Não;4.0;Não;Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas
+I;03/07/4771;Não;4.0;Não;Comércio varejista de produtos farmacêuticos homeopáticos
+I;04/07/4771;Não;4.0;Não;Comércio varejista de medicamentos veterinários
+I;4772-5/00;Não;4.0;Sim;Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal
+I;4773-3/00;Não;4.0;Não;Comércio varejista de artigos médicos e ortopédicos
+I;4774-1/00;Não;4.0;Sim;Comércio varejista de artigos de óptica
+I;4781-4/00;Não;4.0;Sim;Comércio varejista de artigos do vestuário e acessórios
+I;01/02/4782;Não;4.0;Sim;Comércio varejista de calçados
+I;02/02/4782;Não;4.0;Sim;Comércio varejista de artigos de viagem
+I;01/01/4783;Não;4.0;Não;Comércio varejista de artigos de joalheria
+I;02/01/4783;Não;4.0;Sim;Comércio varejista de artigos de relojoaria
+I;4784-9/00;Não;4.0;Não;Comércio varejista de gás liqüefeito de petróleo (GLP)
+I;01/07/4785;Não;4.0;Sim;Comércio varejista de antigüidades
+I;4785-7/99;Não;4.0;Sim;Comércio varejista de outros artigos usados
+I;4789-0/01;Não;4.0;Sim;Comércio varejista de suvenires, bijuterias e artesanatos
+I;4789-0/02;Não;4.0;Sim;Comércio varejista de plantas e flores naturais
+I;4789-0/03;Não;4.0;Sim;Comércio varejista de objetos de arte
+I;4789-0/04;Não;4.0;Não;Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação
+I;4789-0/05;Não;4.0;Não;Comércio varejista de produtos saneantes domissanitários
+I;4789-0/06;Não;4.0;Não;Comércio varejista de fogos de artifício e artigos pirotécnicos
+I;4789-0/07;Não;4.0;Sim;Comércio varejista de equipamentos para escritório
+I;4789-0/08;Não;4.0;Sim;Comércio varejista de artigos fotográficos e para filmagem
+I;4789-0/09;Não;4.0;Não;Comércio varejista de armas e munições
+I;4789-0/99;Não;4.0;Sim;Comércio varejista de outros produtos não especificados anteriormente
+III;4911-6/00;Não;6.0;Não;Transporte ferroviário de carga
+III;02/04/4912;Não;6.0;Não;Transporte ferroviário de passageiros municipal e em região metropolitana
+III;03/04/4912;Não;6.0;Não;Transporte metroviário
+III;01/03/4921;Não;6.0;Não;Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal
+III;03/01/4922;Não;6.0;Não;Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional
+III;4923-0/01;Não;6.0;Não;Serviço de táxi
+III;4923-0/02;Não;6.0;Não;Serviço de transporte de passageiros – locação de automóveis com motorista
+III;4924-8/00;Não;6.0;Não;Transporte escolar
+III;01/09/4929;Não;6.0;Não;Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal
+III;03/09/4929;Não;6.0;Não;Organização de excursões em veículos rodoviários próprios, municipal
+III;01/02/4930;Não;6.0;Não;Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal
+III;02/02/4930;Não;6.0;Não;Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional
+III;03/02/4930;Não;6.0;Não;Transporte rodoviário de produtos perigosos
+III;04/02/4930;Não;6.0;Não;Transporte rodoviário de mudanças
+III;4940-0/00;Não;6.0;Não;Transporte dutoviário
+III;4950-7/00;Não;6.0;Não;Trens turísticos, teleféricos e similares
+III;01/04/5011;Não;6.0;Não;Transporte marítimo de cabotagem – Carga
+III;01/02/5012;Não;6.0;Não;Transporte marítimo de longo curso – Carga
+III;02/02/5012;Não;6.0;Não;Transporte marítimo de longo curso – Passageiros
+III;01/01/5021;Não;6.0;Não;Transporte por navegação interior de carga, municipal, exceto travessia
+III;02/01/5021;Não;6.0;Não;Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia
+III;5022-0/01;Não;6.0;Não;Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia
+III;5022-0/02;Não;6.0;Não;Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia
+III;01/01/5030;Não;6.0;Não;Navegação de apoio marítimo
+III;02/01/5030;Não;6.0;Não;Navegação de apoio portuário
+III;03/01/5030;Não;6.0;Não;Serviço de rebocadores e empurradores
+III;01/02/5091;Não;6.0;Não;Transporte por navegação de travessia, municipal
+III;01/08/5099;Não;6.0;Não;Transporte aquaviário para passeios turísticos
+III;5099-8/99;Não;6.0;Não;Outros transportes aquaviários não especificados anteriormente
+III;5111-1/00;Não;6.0;Não;Transporte aéreo de passageiros regular
+III;01/09/5112;Não;6.0;Não;Serviço de táxi aéreo e locação de aeronaves com tripulação
+III;5112-9/99;Não;6.0;Não;Outros serviços de transporte aéreo de passageiros não-regular
+III;5120-0/00;Não;6.0;Não;Transporte aéreo de carga
+III;5130-7/00;Não;6.0;Não;Transporte espacial
+III;01/07/5211;Não;6.0;Não;Armazéns gerais – emissão de warrant
+III;02/07/5211;Não;6.0;Não;Guarda-móveis
+III;5211-7/99;Não;6.0;Não;Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis
+III;5212-5/00;Não;6.0;Não;Carga e descarga
+III;5221-4/00;Não;6.0;Não;Concessionárias de rodovias, pontes, túneis e serviços relacionados
+III;5223-1/00;Não;6.0;Não;Estacionamento de veículos
+III;5229-0/01;Não;6.0;Não;Serviços de apoio ao transporte por táxi, inclusive centrais de chamada
+III;5229-0/02;Não;6.0;Não;Serviços de reboque de veículos
+III;5229-0/99;Não;6.0;Não;Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente
+III;02/01/5231;Não;6.0;Não;Atividades do Operador Portuário
+III;03/01/5231;Não;6.0;Não;Gestão de terminais aquaviários
+III;5239-7/00;Não;6.0;Não;Atividades auxiliares dos transportes aquaviários não especificadas anteriormente
+III;01/07/5239;Não;6.0;Não;Serviços de praticagem
+III;5239-7/99;Não;6.0;Não;Atividades auxiliares dos transportes aquaviários não especificadas anteriormente
+III;5240-1/99;Não;6.0;Não;Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem
+III;03/08/5250;Não;6.0;Não;Agenciamento de cargas, exceto para o transporte marítimo
+III;02/05/5310;Não;6.0;Não;Atividades de franqueadas e permissionárias do Correio Nacional
+III;01/02/5320;Não;6.0;Não;Serviços de malote não realizados pelo Correio Nacional
+III;02/02/5320;Não;6.0;Não;Serviços de entrega rápida
+III;01/08/5510;Não;6.0;Não;Hotéis
+III;02/08/5510;Não;6.0;Não;Apart-hotéis
+III;03/08/5510;Não;6.0;Não;Motéis
+III;01/06/5590;Não;6.0;Não;Albergues, exceto assistenciais
+III;02/06/5590;Não;6.0;Não;Campings
+III;03/06/5590;Não;6.0;Não;Pensões (alojamento)
+III;5590-6/99;Não;6.0;Não;Outros alojamentos não especificados anteriormente
+I;01/02/5611;Não;4.0;Sim;Restaurantes e similares
+I;02/02/5611;Não;4.0;Sim;Bares e outros estabelecimentos especializados em servir bebidas
+I;03/02/5611;Não;4.0;Sim;Lanchonetes, casas de chá, de sucos e similares
+I;5612-1/00;Não;4.0;Não;Serviços ambulantes de alimentação
+I;01/01/5620;Não;4.0;Sim;Fornecimento de alimentos preparados preponderantemente para empresas
+III;02/01/5620;Não;6.0;Não;Serviços de alimentação para eventos e recepções – bufê
+I;02/01/5620;Não;4.0;Não;Serviços de alimentação para eventos e recepções – bufê
+I;03/01/5620;Não;4.0;Sim;Cantinas – serviços de alimentação privativos
+I;04/01/5620;Não;4.0;Sim;Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+III;5811-5/00;Não;6.0;Não;Edição de livros
+III;5812-3/00;Não;6.0;Não;Edição de jornais
+III;01/03/5812;Não;6.0;Não;Edição de jornais diários
+III;02/03/5812;Não;6.0;Não;Edição de jornais não diários
+III;5813-1/00;Não;6.0;Não;Edição de revistas
+III;5819-1/00;Não;6.0;Não;Edição de cadastros, listas e outros produtos gráficos
+III;5821-2/00;Não;6.0;Não;Edição integrada à impressão de livros
+III;5822-1/00;Não;6.0;Não;Edição integrada à impressão de jornais
+III;01/01/5822;Não;6.0;Não;Edição integrada à impressão de jornais diários
+III;02/01/5822;Não;6.0;Não;Edição integrada à impressão de jornais não diários
+III;5823-9/00;Não;6.0;Não;Edição integrada à impressão de revistas
+III;5829-8/00;Não;6.0;Não;Edição integrada à impressão de cadastros, listas e outros produtos gráficos
+III;01/01/5911;Não;6.0;Sim;Estúdios cinematográficos
+III;02/01/5911;Não;6.0;Sim;Produção de filmes para publicidade
+III;5911-1/99;Não;6.0;Sim;Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente
+III;5912-0/01;Não;6.0;Sim;Serviços de dublagem
+III;5912-0/02;Não;6.0;Sim;Serviços de mixagem sonora em produção audiovisual
+III;5912-0/99;Não;6.0;Sim;Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente
+III;5913-8/00;Não;6.0;Sim;Distribuição cinematográfica, de vídeo e de programas de televisão
+III;5914-6/00;Não;6.0;Sim;Atividades de exibição cinematográfica
+III;5920-1/00;Não;6.0;Sim;Atividades de gravação de som e de edição de música
+III;6010-1/00;Não;6.0;Não;Atividades de rádio
+III;6021-7/00;Não;6.0;Não;Atividades de televisão aberta
+III;01/05/6022;Não;6.0;Não;Programadoras
+III;01/08/6110;Não;6.0;Não;Serviços de telefonia fixa comutada – STFC
+III;02/08/6110;Não;6.0;Não;Serviços de redes de transporte de telecomunicações – SRTT
+III;03/08/6110;Não;6.0;Não;Serviços de comunicação multimídia – SCM
+III;6110-8/99;Não;6.0;Não;Serviços de telecomunicações por fio não especificados anteriormente
+III;01/05/6120;Não;6.0;Não;Telefonia móvel celular
+III;02/05/6120;Não;6.0;Não;Serviço móvel especializado – SME
+III;6120-5/99;Não;6.0;Não;Serviços de telecomunicações sem fio não especificados anteriormente
+III;6130-2/00;Não;6.0;Não;Telecomunicações por satélite
+III;6141-8/00;Não;6.0;Não;Operadoras de televisão por assinatura por cabo
+III;6142-6/00;Não;6.0;Não;Operadoras de televisão por assinatura por microondas
+III;6143-4/00;Não;6.0;Não;Operadoras de televisão por assinatura por satélite
+III;01/06/6190;Não;6.0;Não;Provedores de acesso às redes de comunicações
+III;02/06/6190;Não;6.0;Não;Provedores de voz sobre protocolo internet – VOIP
+III;6190-6/99;Não;6.0;Não;Outras atividades de telecomunicações não especificadas anteriormente
+V;6201-5/00;Não;15.5;Não;Desenvolvimento de programas de computador sob encomenda
+III;01/05/6201;Sim;6.0;Sim;Desenvolvimento de programas de computador sob encomenda
+V;01/05/6201;Sim;15.5;Sim;Desenvolvimento de programas de computador sob encomenda
+III;02/05/6201;Sim;6.0;Sim;Web design
+V;02/05/6201;Sim;15.5;Sim;Web design
+V;6202-3/00;Sim;15.5;Sim;Desenvolvimento e licenciamento de programas de computador customizáveis
+III;6202-3/00;Sim;6.0;Sim;Desenvolvimento e licenciamento de programas de computador customizáveis
+III;6203-1/00;Sim;6.0;Sim;Desenvolvimento e licenciamento de programas de computador não-customizáveis
+V;6203-1/00;Sim;15.5;Sim;Desenvolvimento e licenciamento de programas de computador não-customizáveis
+V;6204-0/00;Sim;15.5;Sim;Consultoria em tecnologia da informação
+III;6209-1/00;Sim;6.0;Sim;Suporte técnico, manutenção e outros serviços em tecnologia da informação
+V;6209-1/00;Sim;15.5;Sim;Suporte técnico, manutenção e outros serviços em tecnologia da informação
+V;6311-9/00;Sim;15.5;Sim;Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet
+III;6311-9/00;Sim;6.0;Sim;Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet
+III;6319-4/00;Sim;6.0;Sim;Portais, provedores de conteúdo e outros serviços de informação na internet
+V;6319-4/00;Sim;15.5;Sim;Portais, provedores de conteúdo e outros serviços de informação na internet
+III;6391-7/00;Não;6.0;Sim;Agências de notícias
+III;6399-2/00;Não;6.0;Sim;Outras atividades de prestação de serviços de informação não especificadas anteriormente
+III;6493-0/00;Não;6.0;Não;Administração de consórcios para aquisição de bens e direitos
+V;01/05/6621;Sim;15.5;Sim;Peritos e avaliadores de seguros
+V;02/05/6621;Sim;15.5;Sim;Auditoria e consultoria atuarial
+III;6622-3/00;Não;6.0;Sim;Corretores e agentes de seguros, de planos de previdência complementar e de saúde
+I;01/02/6810;Não;4.0;Não;Compra e venda de imóveis próprios
+III;01/08/6821;Não;6.0;Sim;Corretagem na compra e venda e avaliação de imóveis
+III;02/08/6821;Não;6.0;Sim;Corretagem no aluguel de imóveis
+III;6822-6/00;Sim;6.0;Não;Gestão e administração da propriedade imobiliária
+V;6822-6/00;Sim;15.5;Não;Gestão e administração da propriedade imobiliária
+IV;01/07/6911;Não;4.5;Sim;Serviços advocatícios
+V;03/07/6911;Sim;15.5;Sim;Agente de propriedade industrial
+III;01/06/6920;Não;6.0;Não;Atividades de contabilidade
+V;02/06/6920;Sim;15.5;Não;Atividades de consultoria e auditoria contábil e tributária
+V;7020-4/00;Sim;15.5;Sim;Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica
+III;7111-1/00;Sim;6.0;Sim;Serviços de arquitetura
+V;7112-0/00;Sim;15.5;Sim;Serviços de engenharia
+V;01/07/7119;Sim;15.5;Sim;Serviços de cartografia, topografia e geodésia
+V;02/07/7119;Sim;15.5;Sim;Atividades de estudos geológicos
+V;03/07/7119;Sim;15.5;Sim;Serviços de desenho técnico relacionados à arquitetura e engenharia
+V;04/07/7119;Sim;15.5;Sim;Serviços de perícia técnica relacionados à segurança do trabalho
+V;7119-7/99;Sim;15.5;Sim;Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente
+V;7120-1/00;Sim;15.5;Sim;Testes e análises técnicas
+V;7210-0/00;Sim;15.5;Sim;Pesquisa e desenvolvimento experimental em ciências físicas e naturais
+V;7220-7/00;Sim;15.5;Sim;Pesquisa e desenvolvimento experimental em ciências sociais e humanas
+V;7311-4/00;Sim;15.5;Sim;Agências de publicidade
+III;7312-2/00;Não;6.0;Sim;AGENCIAMENTO DE ESPAÇOS PARA PUBLICIDADE, EXCETO EM VEÍCULOS DE COMUNICAÇÃO
+V;7319-0/01;Sim;15.5;Sim;Criação de estandes para feiras e exposições
+III;7319-0/02;Não;6.0;Sim;Promoção de vendas
+III;7319-0/03;Não;6.0;Sim;Marketing direto
+V;7319-0/04;Sim;15.5;Sim;Consultoria em publicidade
+III;7319-0/99;Não;6.0;Sim;Outras atividades de publicidade não especificadas anteriormente
+V;7320-3/00;Sim;15.5;Sim;Pesquisas de mercado e de opinião pública
+IV;02/02/7410;Sim;4.5;Sim;Design de interiores
+V;02/02/7410;Sim;15.5;Sim;Design de interiores
+V;03/02/7410;Sim;15.5;Sim;Design de produto
+V;7410-2/99;Sim;15.5;Sim;Atividades de design não especificadas anteriormente
+III;7420-0/01;Não;6.0;Sim;Atividades de produção de fotografias, exceto aérea e submarina
+III;7420-0/02;Não;6.0;Sim;Atividades de produção de fotografias aéreas e submarinas
+III;7420-0/03;Não;6.0;Sim;Laboratórios fotográficos
+III;7420-0/04;Não;6.0;Sim;Filmagem de festas e eventos
+III;7420-0/05;Não;6.0;Sim;Serviços de microfilmagem
+V;01/01/7490;Sim;15.5;Sim;Serviços de tradução, interpretação e similares
+III;02/01/7490;Não;6.0;Sim;Escafandria e mergulho
+V;03/01/7490;Sim;15.5;Sim;Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias
+V;04/01/7490;Sim;15.5;Sim;Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários
+V;05/01/7490;Sim;15.5;Sim;Agenciamento de profissionais para atividades esportivas, culturais e artísticas
+V;7490-1/99;Sim;15.5;Sim;Outras atividades profissionais, científicas e técnicas não especificadas anteriormente
+V;7500-1/00;Sim;15.5;Sim;Atividades veterinárias
+III;7711-0/00;Não;6.0;Não;Locação de automóveis sem condutor
+III;01/05/7719;Não;6.0;Não;Locação de embarcações sem tripulação, exceto para fins recreativos
+III;02/05/7719;Não;6.0;Não;Locação de aeronaves sem tripulação
+III;7719-5/99;Não;6.0;Não;Locação de outros meios de transporte não especificados anteriormente, sem condutor
+III;7721-7/00;Não;6.0;Sim;Aluguel de equipamentos recreativos e esportivos
+III;7722-5/00;Não;6.0;Sim;Aluguel de fitas de vídeo, DVDs e similares
+III;7723-3/00;Não;6.0;Sim;Aluguel de objetos do vestuário, jóias e acessórios
+III;01/02/7729;Não;6.0;Sim;Aluguel de aparelhos de jogos eletrônicos
+III;02/02/7729;Não;6.0;Sim;"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+III;03/02/7729;Não;6.0;Sim;Aluguel de material médico
+III;7729-2/99;Não;6.0;Sim;Aluguel de outros objetos pessoais e domésticos não especificados anteriormente
+III;7731-4/00;Não;6.0;Sim;Aluguel de máquinas e equipamentos agrícolas sem operador
+III;01/02/7732;Não;6.0;Sim;Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes
+III;02/02/7732;Não;6.0;Sim;Aluguel de andaimes
+III;7733-1/00;Não;6.0;Sim;Aluguel de máquinas e equipamentos para escritório
+III;7739-0/01;Não;6.0;Sim;Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador
+III;7739-0/02;Não;6.0;Sim;Aluguel de equipamentos científicos, médicos e hospitalares, sem operador
+III;7739-0/03;Não;6.0;Sim;Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes
+III;7739-0/99;Não;6.0;Sim;Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador
+V;7740-3/00;Sim;15.5;Sim;Gestão de ativos intangíveis não-financeiros
+V;7810-8/00;Sim;15.5;Não;Seleção e agenciamento de mão-de-obra
+III;7911-2/00;Não;6.0;Sim;Agências de viagens
+III;7912-1/00;Não;6.0;Sim;Operadores turísticos
+III;7990-2/00;Não;6.0;Sim;Serviços de reservas e outros serviços de turismo não especificados anteriormente
+IV;01/01/8011;Não;4.5;Não;Atividades de vigilância e segurança privada
+III;02/01/8011;Não;6.0;Sim;Serviços de adestramento de cães de guarda
+IV;8012-9/00;Não;4.5;Não;Atividades de transporte de valores
+IV;8020-0/00;Não;4.5;Não;Atividades de monitoramento de sistemas de segurança
+IV;8020-0/01;Não;4.5;Não;Atividades de monitoramento de sistemas de segurança eletrônico
+IV;8020-0/02;Não;4.5;Não;Outras atividades de serviços de segurança
+V;8030-7/00;Sim;15.5;Sim;Atividades de investigação particular
+IV;8111-7/00;Não;4.5;Não;Serviços combinados para apoio a edifícios, exceto condomínios prediais
+IV;8121-4/00;Não;4.5;Sim;Limpeza em prédios e em domicílios
+IV;8122-2/00;Não;4.5;Sim;Imunização e controle de pragas urbanas
+IV;8129-0/00;Não;4.5;Sim;Atividades de limpeza não especificadas anteriormente
+IV;8130-3/00;Não;4.5;Sim;Atividades paisagísticas
+III;8211-3/00;Não;6.0;Sim;Serviços combinados de escritório e apoio administrativo
+III;01/09/8219;Não;6.0;Não;Fotocópias
+III;8219-9/99;Não;6.0;Sim;Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente
+III;8220-2/00;Não;6.0;Sim;Atividades de teleatendimento
+III;8230-0/01;Não;6.0;Sim;Serviços de organização de feiras, congressos, exposições e festas
+III;8230-0/02;Não;6.0;Sim;Casas de festas e eventos
+III;8291-1/00;Não;6.0;Sim;Atividades de cobrança e informações cadastrais
+III;8292-0/00;Não;6.0;Não;Envasamento e empacotamento sob contrato
+III;01/07/8299;Não;6.0;Sim;Medição de consumo de energia elétrica, gás e água
+III;03/07/8299;Não;6.0;Sim;Serviços de gravação de carimbos, exceto confecção
+III;06/07/8299;Não;6.0;Não;Casas lotéricas
+III;07/07/8299;Não;6.0;Sim;Salas de acesso à internet
+V;8299-7/99;Sim;15.5;Sim;Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente
+III;8299-7/99;Sim;6.0;Sim;Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente
+III;8511-2/00;Não;6.0;Sim;Educação infantil – creche
+III;8512-1/00;Não;6.0;Sim;Educação infantil – pré-escola
+III;8513-9/00;Não;6.0;Sim;Ensino fundamental
+III;8520-1/00;Não;6.0;Sim;Ensino médio
+V;8531-7/00;Sim;15.5;Sim;Educação superior – graduação
+V;8532-5/00;Sim;15.5;Sim;Educação superior – graduação e pós-graduação
+V;8533-3/00;Sim;15.5;Sim;Educação superior – pós-graduação e extensão
+III;8541-4/00;Não;6.0;Sim;Educação profissional de nível técnico
+V;8542-2/00;Sim;15.5;Sim;Educação profissional de nível tecnológico
+V;02/03/8550;Sim;15.5;Sim;Atividades de apoio à educação, exceto caixas escolares
+V;8591-1/00;Sim;15.5;Sim;Ensino de esportes
+III;8591-1/00;Sim;6.0;Sim;Ensino de esportes
+III;01/09/8592;Sim;6.0;Sim;Ensino de dança
+V;01/09/8592;Sim;15.5;Sim;Ensino de dança
+III;02/09/8592;Não;6.0;Sim;Ensino de artes cênicas, exceto dança
+III;03/09/8592;Não;6.0;Sim;Ensino de música
+III;8592-9/99;Não;6.0;Sim;Ensino de arte e cultura não especificado anteriormente
+III;8593-7/00;Não;6.0;Sim;Ensino de idiomas
+III;01/06/8599;Não;6.0;Não;Formação de condutores
+III;02/06/8599;Não;6.0;Não;Cursos de pilotagem
+III;03/06/8599;Não;6.0;Sim;Treinamento em informática
+III;04/06/8599;Não;6.0;Sim;Treinamento em desenvolvimento profissional e gerencial
+III;05/06/8599;Não;6.0;Sim;Cursos preparatórios para concursos
+III;8599-6/99;Não;6.0;Sim;Outras atividades de ensino não especificadas anteriormente
+III;01/01/8610;Sim;6.0;Sim;Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências
+III;02/01/8610;Sim;6.0;Não;Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências
+III;01/06/8621;Sim;6.0;Não;UTI móvel
+III;02/06/8621;Sim;6.0;Não;Serviços móveis de atendimento a urgências, exceto por UTI móvel
+V;8622-4/00;Sim;15.5;Não;Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências
+III;01/05/8630;Sim;6.0;Sim;Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos
+III;02/05/8630;Sim;6.0;Sim;Atividade médica ambulatorial com recursos para realização de exames complementares
+III;03/05/8630;Sim;6.0;Sim;Atividade médica ambulatorial restrita a consultas
+III;04/05/8630;Sim;6.0;Sim;Atividade odontológica
+III;06/05/8630;Sim;6.0;Sim;Serviços de vacinação e imunização humana
+III;07/05/8630;Sim;6.0;Sim;Atividades de reprodução humana assistida
+III;8630-5/99;Sim;6.0;Sim;Atividades de atenção ambulatorial não especificadas anteriormente
+III;01/02/8640;Sim;6.0;Sim;Laboratórios de anatomia patológica e citológica
+V;01/02/8640;Sim;15.5;Sim;Laboratórios de anatomia patológica e citológica
+V;02/02/8640;Sim;15.5;Sim;Laboratórios clínicos
+III;02/02/8640;Sim;6.0;Sim;Laboratórios clínicos
+III;03/02/8640;Sim;6.0;Sim;Serviços de diálise e nefrologia
+III;04/02/8640;Sim;6.0;Sim;Serviços de tomografia
+V;04/02/8640;Sim;15.5;Sim;Serviços de tomografia
+V;05/02/8640;Sim;15.5;Sim;Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia
+III;05/02/8640;Sim;6.0;Sim;Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia
+III;06/02/8640;Sim;6.0;Sim;Serviços de ressonância magnética
+V;06/02/8640;Sim;15.5;Sim;Serviços de ressonância magnética
+V;07/02/8640;Sim;15.5;Sim;Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética
+III;07/02/8640;Sim;6.0;Sim;Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética
+V;08/02/8640;Sim;15.5;Sim;Serviços de diagnóstico por registro gráfico – ECG, EEG e outros exames análogos
+III;08/02/8640;Sim;6.0;Sim;Serviços de diagnóstico por registro gráfico – ECG, EEG e outros exames análogos
+III;09/02/8640;Sim;6.0;Sim;Serviços de diagnóstico por métodos ópticos – endoscopia e outros exames análogos
+V;09/02/8640;Sim;15.5;Sim;Serviços de diagnóstico por métodos ópticos – endoscopia e outros exames análogos
+III;10/02/8640;Sim;6.0;Sim;Serviços de quimioterapia
+III;11/02/8640;Sim;6.0;Sim;Serviços de radioterapia
+III;12/02/8640;Sim;6.0;Sim;Serviços de hemoterapia
+III;13/02/8640;Sim;6.0;Sim;Serviços de litotripsia
+III;14/02/8640;Sim;6.0;Sim;Serviços de bancos de células e tecidos humanos
+III;8640-2/99;Sim;6.0;Sim;Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente
+III;8650-0/01;Sim;6.0;Sim;Atividades de enfermagem
+III;8650-0/02;Sim;6.0;Sim;Atividades de profissionais da nutrição
+III;8650-0/03;Sim;6.0;Sim;Atividades de psicologia e psicanálise
+III;8650-0/04;Sim;6.0;Sim;Atividades de fisioterapia
+III;8650-0/04;Sim;6.0;Sim;Atividades de fisioterapia
+III;8650-0/05;Sim;6.0;Sim;Atividades de terapia ocupacional
+III;8650-0/06;Sim;6.0;Sim;Atividades de fonoaudiologia
+V;8650-0/07;Sim;15.5;Sim;Atividades de terapia de nutrição enteral e parenteral
+V;8650-0/99;Sim;15.5;Sim;Atividades de profissionais da área de saúde não especificadas anteriormente
+V;8660-7/00;Sim;15.5;Sim;Atividades de apoio à gestão de saúde
+V;01/09/8690;Sim;15.5;Sim;Atividades de práticas integrativas e complementares em saúde humana
+III;02/09/8690;Sim;6.0;Não;Atividades de bancos de leite humano
+III;03/09/8690;Sim;6.0;Sim;Atividades de acupuntura
+III;04/09/8690;Sim;6.0;Sim;Atividades de podologia
+V;8690-9/99;Sim;15.5;Sim;Outras atividades de atenção à saúde humana não especificadas anteriormente
+V;01/05/8711;Sim;15.5;Não;Clínicas e residências geriátricas
+III;02/05/8711;Não;6.0;Não;Instituições de longa permanência para idosos
+V;03/05/8711;Sim;15.5;Não;Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes
+V;04/05/8711;Sim;15.5;Não;Centros de apoio a pacientes com câncer e com AIDS
+III;05/05/8711;Não;6.0;Não;Condomínios residenciais para idosos
+III;8712-3/00;Não;6.0;Não;Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio
+V;01/04/8720;Sim;15.5;Não;Atividades de centros de assistência psicossocial
+V;8720-4/99;Sim;15.5;Não;Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química não especificadas anteriormente
+III;01/01/8730;Não;6.0;Não;Orfanatos
+III;02/01/8730;Não;6.0;Não;Albergues assistenciais
+V;8730-1/99;Sim;15.5;Não;Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente
+V;8800-6/00;Sim;15.5;Não;Serviços de assistência social sem alojamento
+III;01/09/9001;Não;6.0;Sim;Produção teatral
+III;02/09/9001;Não;6.0;Sim;Produção musical
+III;03/09/9001;Não;6.0;Sim;Produção de espetáculos de dança
+III;04/09/9001;Não;6.0;Sim;Produção de espetáculos circenses, de marionetes e similares
+III;05/09/9001;Não;6.0;Sim;Produção de espetáculos de rodeios, vaquejadas e similares
+III;06/09/9001;Não;6.0;Sim;Atividades de sonorização e de iluminação
+III;9001-9/99;Não;6.0;Sim;Artes cênicas, espetáculos e atividades complementares não especificados anteriormente
+V;01/07/9002;Sim;15.5;Sim;Atividades de artistas plásticos, jornalistas independentes e escritores
+III;02/07/9002;Não;6.0;Sim;Restauração de obras de arte
+III;9003-5/00;Não;6.0;Não;Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas
+III;9101-5/00;Não;6.0;Não;Atividades de bibliotecas e arquivos
+III;01/03/9102;Não;6.0;Não;Atividades de museus e de exploração de lugares e prédios históricos e atrações similares
+III;02/03/9102;Não;6.0;Não;Restauração e conservação de lugares e prédios históricos
+III;9103-1/00;Não;6.0;Não;Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental
+III;01/03/9200;Não;6.0;Não;Casas de bingo
+III;02/03/9200;Não;6.0;Não;Exploração de apostas em corridas de cavalos
+III;9200-3/99;Não;6.0;Não;Exploração de jogos de azar e apostas não especificados anteriormente
+III;9311-5/00;Não;6.0;Sim;Gestão de instalações de esportes
+III;9312-3/00;Não;6.0;Não;Clubes sociais, esportivos e similares
+V;9313-1/00;Sim;15.5;Sim;Atividades de condicionamento físico
+III;9313-1/00;Sim;6.0;Sim;Atividades de condicionamento físico
+III;01/01/9319;Não;6.0;Sim;Produção e promoção de eventos esportivos
+III;9319-1/99;Não;6.0;Sim;Outras atividades esportivas não especificadas anteriormente
+III;9321-2/00;Não;6.0;Não;Parques de diversão e parques temáticos
+III;01/08/9329;Não;6.0;Não;Discotecas, danceterias, salões de dança e similares
+III;02/08/9329;Não;6.0;Sim;Exploração de boliches
+III;03/08/9329;Não;6.0;Sim;Exploração de jogos de sinuca, bilhar e similares
+III;04/08/9329;Não;6.0;Sim;Exploração de jogos eletrônicos recreativos
+III;9329-8/99;Não;6.0;Sim;Outras atividades de recreação e lazer não especificadas anteriormente
+III;9511-8/00;Não;6.0;Sim;Reparação e manutenção de computadores e de equipamentos periféricos
+III;9512-6/00;Não;6.0;Sim;Reparação e manutenção de equipamentos de comunicação
+III;9521-5/00;Não;6.0;Sim;Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico
+III;01/01/9529;Não;6.0;Sim;Reparação de calçados, bolsas e artigos de viagem
+III;02/01/9529;Não;6.0;Sim;Chaveiros
+III;03/01/9529;Não;6.0;Sim;Reparação de relógios
+III;04/01/9529;Não;6.0;Sim;Reparação de bicicletas, triciclos e outros veículos não-motorizados
+III;05/01/9529;Não;6.0;Sim;Reparação de artigos do mobiliário
+III;06/01/9529;Não;6.0;Sim;Reparação de jóias
+III;9529-1/99;Não;6.0;Sim;Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente
+III;01/07/9601;Não;6.0;Sim;Lavanderias
+III;02/07/9601;Não;6.0;Sim;Tinturarias
+III;03/07/9601;Não;6.0;Sim;Toalheiros
+III;01/05/9602;Não;6.0;Sim;Cabeleireiros, manicure e pedicure
+III;02/05/9602;Não;6.0;Sim;Atividades de Estética e outros serviços de cuidados com a beleza
+III;01/03/9603;Não;6.0;Não;Gestão e manutenção de cemitérios
+III;02/03/9603;Não;6.0;Não;Serviços de cremação
+III;03/03/9603;Não;6.0;Não;Serviços de sepultamento
+III;04/03/9603;Não;6.0;Não;Serviços de funerárias
+III;05/03/9603;Não;6.0;Não;Serviços de somatoconservação
+III;9603-3/99;Não;6.0;Não;Atividades funerárias e serviços relacionados não especificados anteriormente
+III;02/02/9609;Não;6.0;Sim;Agências matrimoniais
+III;03/02/9609;Não;6.0;Não;Alojamento, higiene e embelezamento de animais
+III;04/02/9609;Não;6.0;Não;Exploração de máquinas de serviços pessoais acionadas por moeda
+III;05/02/9609;Não;6.0;Sim;Atividades de sauna e banhos
+III;06/02/9609;Não;6.0;Sim;Serviços de tatuagem e colocação de piercing
+III;07/02/9609;Não;6.0;Sim;Alojamento de animais domésticos
+III;08/02/9609;Não;6.0;Sim;Higiene e embelezamento de animais domésticos
+III;9609-2/99;Não;6.0;Sim;Outras atividades de serviços pessoais não especificadas anteriormente
+IV;9700-5/00;Não;4.5;Não;Serviços domésticos
+IV;9900-8/00;Não;4.5;Não;Organismos internacionais e outras instituições extraterritoriais

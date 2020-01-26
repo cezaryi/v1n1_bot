@@ -1,0 +1,19 @@
+Anexo;Código;Fator R;Alíquota;Atendido;Descrição
+II;2621-3/00;Não;4.5;Não;Fabricação de equipamentos de informática
+II;2622-1/00;Não;4.5;Não;Fabricação de periféricos para equipamentos de informática
+I;01/06/4651;Não;4.0;Sim;Comércio atacadista de equipamentos de informática
+I;4751-2/00;Não;4.0;Não;Comércio varejista especializado de equipamentos e suprimentos de informática
+I;01/02/4751;Não;4.0;Sim;Comércio varejista especializado de equipamentos e suprimentos de informática
+III;02/02/4751;Não;6.0;Sim;Recarga de cartuchos para equipamentos de informática
+V;6201-5/00;Não;15.5;Não;Desenvolvimento de programas de computador sob encomenda
+III;01/05/6201;Sim;6.0;Sim;Desenvolvimento de programas de computador sob encomenda
+V;01/05/6201;Sim;15.5;Sim;Desenvolvimento de programas de computador sob encomenda
+V;6202-3/00;Sim;15.5;Sim;Desenvolvimento e licenciamento de programas de computador customizáveis
+III;6202-3/00;Sim;6.0;Sim;Desenvolvimento e licenciamento de programas de computador customizáveis
+III;6203-1/00;Sim;6.0;Sim;Desenvolvimento e licenciamento de programas de computador não-customizáveis
+V;6203-1/00;Sim;15.5;Sim;Desenvolvimento e licenciamento de programas de computador não-customizáveis
+V;6204-0/00;Sim;15.5;Sim;Consultoria em tecnologia da informação
+III;6209-1/00;Sim;6.0;Sim;Suporte técnico, manutenção e outros serviços em tecnologia da informação
+V;6209-1/00;Sim;15.5;Sim;Suporte técnico, manutenção e outros serviços em tecnologia da informação
+III;03/06/8599;Não;6.0;Sim;Treinamento em informática
+III;9511-8/00;Não;6.0;Sim;Reparação e manutenção de computadores e de equipamentos periféricos
